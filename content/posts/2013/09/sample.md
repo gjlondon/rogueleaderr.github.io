@@ -1,9 +1,9 @@
-Title: Welcome All
-Slug: welcome-all
-Date: 2013-07-22 19:19
-Category: Python
-Tags: pelican, publishing
-Author: Josef Jezek
-Summary: Short version for index and feeds
+Title: Hello World!
+Date: 2013-09-27 20:00
+Category: Hello
+Author: George London
+Summary: Gotta start somewhere...
 
-This is the content of my blog post.
+Hello, world.
+
+I'm George. It's nice to meet you.
