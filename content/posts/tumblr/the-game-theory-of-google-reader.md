@@ -1,0 +1,51 @@
+Title: The Game Theory of Google Reader
+Slug: tumblr/the-game-theory-of-google-reader
+Date: 2013-03-31 19:57
+Tags: ['game theory', 'google reader', 'craigslist']
+
+<p>Google Reader is one of top five most-used websites. I literally always have a reader tab open in Chrome. So when I heard that Reader is shutting down on July 1st, I was like</p>
+<p><img alt="alt text" src="http://www.reactiongifs.com/wp-content/uploads/2013/03/dduckrage.gif" title="Picture of Buffy Changing Her Mind"/></p>
+<p>But after a while I was like</p>
+<p><img alt="alt text" src="http://www.reactiongifs.com/wp-content/uploads/2013/03/confused-buffy.gif" title="Picture of Buffy Changing Her Mind"/></p>
+<p>And now I&#8217;m like&#8230;</p>
+<p><img alt="alt text" src="http://www.reactiongifs.com/wp-content/uploads/2013/03/oh-boy.gif" title="Picture of Buffy Changing Her Mind"/></p>
+<p>&#8230;because I&#8217;ve concluded that I&#8217;m glad Google is shutting down Reader.</p>
+<p>Why, dear reader? <strong>Because of <a href="http://en.wikipedia.org/wiki/Game_theory" target="_blank">Game Theory</a></strong> (obviously)! By shutting down Reader, Google is breaking a bad Nash Equilibrium which has been hobbling the progress of web content distribution.</p>
+<p>Whoa, what does that mean?</p>
+<p>Well, &#8220;Game Theory&#8221; is simply a mathematical examination of the ideal strategy for playing games. Unsurprisingly it often applies to business and other competitive situations.</p>
+<p>Let&#8217;s consider the canonical example Game Theorists love to use: &#8220;the prisoner&#8217;s dilema&#8221;. In this scenario, the cookie monster and his brother (Charleston) have both been arrested for, you guessed it, home invasion and murder. The cops put them into two separate cells and start questioning them.</p>
+<p>"Now look, cookie monster, I&#8217;m not going to lie. Our evidence here is weak. If neither of you confess then we&#8217;re going to have to take this to trial, and you <em>might</em> both get off. But I&#8217;ll offer you a deal. If you testify against Charleston, we&#8217;ll give you immunity and <em>five cookies</em>. Unless, of course, he testifies against you in which case you&#8217;ll be learning to count to twenty to life.&#8221;</p>
+<p>The police say the same thing to Charleston. So what is the cookie monster to do? He has two choices: &#8220;cooperate&#8221; with Charleston and go to trial, or &#8220;defect&#8221; and rat him out in exchange for sweet cookies (or long jail time if Charleston also defects.) Charleston has the same choices.</p>
+<p>To figure out what both should do, we can make a simple matrix:</p>
+<p><img alt="alt text" src="http://www.beyondintractability.org/cic_images/aha/Game-Theory-prisoners-dilemma.gif" title="The Prisoner's Dilema matrix"/></p>
+<p>Cookie Monster is Player A, Charleston is Player B, and the numbers in each square are the number of cookies each gets in each situation, respectively. (No, the numbers don&#8217;t match up; I&#8217;m borrowing the diagram.)</p>
+<p>Obviously, both monsters are better off if they both cooperate. But that won&#8217;t happen, at least not assuming that both care exclusively about maximizing their individual cookie intake.</p>
+<p>Why not? Remember that our monsters are in separate rooms and cannot coordinate. Also, notice that each monster is <em>individually</em> best off in the situation where the other monster cooperates but he defects. So if either monster suspects that the other one will be generous and cooperate, his <em>individual narrowly rational best option</em> is to defect. And so he will.</p>
+<p><img alt="alt text" src="http://www.wallchan.com/images/sandbox/5253-cookie-monster-sad-milk.jpg" title="Sad cookie monster"/></p>
+<p>Now the phrase &#8220;Game Theory&#8221; might quite appropriately make you think of the movie &#8220;A Beautiful Mind&#8221;. And if you saw that movie, you might think that Russell Crowe (a.k.a. &#8220;John Nash&#8221;) got academically famous for figuring out how to use game theory to pick up women in bars. But <em>actually</em> he got famous for inventing the concept of a &#8220;Nash Equilibrium&#8221;.</p>
+<p>To over-simplify, a Nash Equilibrium is a set of player choices in a game (e.g. &#8220;Cookie monster -&gt; defect&#8221;, Charleston -&gt; defect&#8221; in the prisoner&#8217;s dilema) that will produce an outcome which neither player can improve <em>by changing his choice unilaterally</em>.</p>
+<p>Take another look at the prisoner&#8217;s dilema diagram. The bottom right square is a Nash Equilibrium because, even though it is the worst outcome it&#8217;s the best that either player can do for himself. If Charleston thinks cookie monster is going to defect, he makes himself even worse off by cooperating. Same for cookie monster.</p>
+<p>So in games where a Nash Equilibrium exists, we can generally expect that it will come to pass.[1][2]</p>
+<p>So how does this all apply to Google Reader? <strong>Well, the existence of Google Reader has created and trapped us in a bad Nash Equilibrium.</strong> In this case, Google isn&#8217;t actually a player. Google is literally and figuratively out of the game &#8212; they haven&#8217;t cared about Google Reader in years and have let it wither on the vine.[3]</p>
+<p>Instead, the players are consumers of RSS content and developers of alternative RSS readers.</p>
+<p>The developers have two choices,</p>
+<ul><li>develop a new, better reader</li>
+<li>do nothing, and let people continue to use Google</li>
+</ul><p>And the consumers have two choices:</p>
+<ul><li>switch to an alternative</li>
+<li>keep using Google reader</li>
+</ul><p><img alt="alt text" src="http://25.media.tumblr.com/d04153cc7404710ee656c03a2a150f96/tumblr_mkhtaq9AKg1qkno8do1_500.png" title="Google dilema"/></p>
+<p>We end up with something that looks an awful lot like the prisoner&#8217;s dilema, but with a few key differences.</p>
+<p>It&#8217;s still the case that everyone is better off if consumers and developers cooperate on moving to a new reader. But it&#8217;s no longer the case that one side gains <em>because</em> the other loses. This is actually a game with <strong>two</strong> Nash Equilibria (develop, switch) and (don&#8217;t develop, don&#8217;t switch.) And instead of being played once in a jailhouse, this decision process is repeated every day.</p>
+<p>Games with multiple equilibria (which I am of course oversimplifying here) introduce a fascinating question: &#8220;given that there&#8217;s a better state <em>which both sides can agree is better for them individually</em> how can move to that better world?&#8221; Remember that in a Nash Equilibrium, neither side can improve her outcome by changing her move <em>unilaterally</em>. But if the sides can coordinate then it&#8217;s as simple as agreeing to change their decisions at the same time.</p>
+<p>But in the real world of RSS readers, developers can&#8217;t practically coordinate <em>en masse</em> with consumers. Each has to speculate in isolation about what the other will do. So we end up in a world where fear reigns and consumers don&#8217;t investigate alternative RSS readers because they fear that the other options are even more primitive. And although developers could make something much better, they don&#8217;t want to risk investing the development time and having no one show up (since GR is &#8220;good enough&#8221; for most people.)</p>
+<p>And so for years we&#8217;ve been muddling along in the bad Nash Equilibrium of continuing to use GR and letting RSS become &#8220;uncool&#8221; relative to social sharing (despite being, IMHO, about 10x more useful.)</p>
+<p>But when Google shuts down Reader, the whole game changes. Suddenly the bad Nash Equilibrium square is out of play. That means that coordination between developers and consumers is no longer necessary because &#8220;staying put&#8221; is no longer an option.</p>
+<p>The immediate aftermath might be painful, but I predict that we&#8217;ll all end up with a much better system.</p>
+<p>Also, note that this dynamic is hardly exclusive to GR. It&#8217;s all over the tech world: some company develops a product which gets popular; they lose interest and stop improving. But they keep the product alive, and the network effects and switching costs keep people using it even though much better mechanisms are theoretically possible. The two worst offenders I can think of are:</p>
+<ol><li>Craigslist</li>
+<li>Javascript</li>
+</ol><p>Both are terrible but both are extremely widely used. And so we&#8217;re stuck in a bad Nash Equilibrium where everyone suffers because it&#8217;s too hard to get people to sell their broken furniture on a new website when they can just use Craigslist and it&#8217;s too risky for Mozilla to implement Python in the browser when developers might just keep kludging JS.</p>
+<p>If Craigslist would just take a lesson from Google and shut down completely, it would be one of the best days ever in tech.</p>
+<p>Can you think of better examples of &#8220;okay&#8221; products that could help the world by just disappearing? Please comment and let me know!</p>
+<p>[1] Game theory is complicated, and there are a lot of exceptions depending on circumstances. But simplification usually gets us close enough.<br/> [2] The prisoner&#8217;s dilema is one of the saddest abstract constructs I know. In a painful nutshell, it explains why &#8220;we can&#8217;t all just get along.&#8221;<br/> [3] Not because they don&#8217;t care <em>per se</em>, but because it&#8217;s just not impactful enough relative to their other lines of business</p>

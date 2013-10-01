@@ -1,0 +1,19 @@
+Title: Future the Economy Part 4 - Computers and Productivity
+Slug: tumblr/future-the-economy-part-4-computers-and-productivity
+Date: 2013-06-01 06:26
+Tags: []
+
+<!--?xml version="1.0" encoding="UTF-8" ?-->
+
+<p><a href="http://www.youtube.com/watch?v=u981JhkK46o" target="_blank">Dear reader</a>, this is a unusual day. For the first time (possibly) ever, I&#8217;m actually writing my next <a href="http://rogueleaderr.com/post/48590759215/links-to-all-the-parts-of-my-everything-about" target="_blank"> future the economy </a> post while NOT airborne.</p>
+<p>When I <a href="http://rogueleaderr.com/post/47208077674/everything-you-need-to-know-about-economics-in-400" target="_blank">left you</a>, we were talking about productivity. I claimed that productivity is the root of all wealth and nearly all improvements in the human condition. And I told you about the two ways that productivity improves:</p>
+<ol><li>Doing the same thing faster</li>
+<li>Doing different things</li>
+</ol><p>It&#8217;s pretty obvious how computers let you do #1. Once upon a time, rocket scientists had to compute thousands of ballistic equations using slide rules. &#8220;Computer&#8221; used to be the job title of a person who simply did computations all day.</p>
+<p>Now scientists can do the same thing, but faster. And Moore&#8217;s law tells they&#8217;ll be able to do that about 50% faster ever year. That&#8217;s pretty good, unless of course I want to do something that currently takes a million years (e.g. perform a 1 second/byte calculation on 10 terabytes of data).</p>
+<p>For that, I&#8217;m going to have to get creative. My only option is to choose an algorithm that does substantially fewer computations or does each computation substantially faster.</p>
+<p>Computer scientists have a fancy way of talking about how long a certain type of algorithm will take. When you see expressions like &#8220;O(n^2)&#8221; (i.e. <a href="http://en.wikipedia.org/wiki/Time_complexity" target="_blank">"big O notation"</a>) or &#8220;polynomial time&#8221;, people are talking about how much slower an algorithm will run as the amount of input data increases. For some problems, like sorting a list of n integers, a good algorithm might take (n)*(log n) nanoseconds while a bad one takes n^2 nanoseconds. For a billion item list, that&#8217;s a difference of about 30 years.</p>
+<p>By using the better algorithm, I&#8217;ve increased my productivity by about 4,000,000,000%.</p>
+<p>These examples are most dramatic in computer science but they apply just as much to normal life. Say I need to attend a meeting in Houston. That&#8217;s a ~20 hour travel ordeal OR a 1 hour Skype conversation. If they&#8217;re both equivalently good[1], I can 20x my productivity by choosing wisely.</p>
+<p>Next time, we&#8217;ll get a little meta and talk about how to <strong>choose better algorithms.</strong></p>
+<p>[1] In real life, alternative solutions are rarely perfect substitutes. But they&#8217;re often close enough along the attributes that matter.</p>

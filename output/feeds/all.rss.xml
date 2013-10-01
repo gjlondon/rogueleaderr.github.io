@@ -1,0 +1,1433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>George J. London</title><link>http://rogueleaderr.github.io/</link><description></description><atom:link href="http://rogueleaderr.github.io/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 30 Sep 2013 20:00:00 -0400</lastBuildDate><item><title>Wherefor Art Thou Rogueleaderr?</title><link>http://rogueleaderr.github.io/posts/2013/09/why_rogueleaderr/</link><description>&lt;p&gt;Well, a few reasons:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Google is firmly convinced that "George London" is a &lt;a href="http://en.wikipedia.org/wiki/George_London_(bass-baritone)"&gt;long-dead opera singer&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;"glondon", "georgel", and "londong" all sound dirty.&lt;/li&gt;
+&lt;li&gt;Rogueleader with one "r" was taken.&lt;/li&gt;
+&lt;li&gt;Because I'm a galactic fighter pilot. Pew. Pew. Pew.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img alt="Pew Pew Pew" src="http://lanternhollow.files.wordpress.com/2011/02/160077-luke-skywalker-star-wars-chronicles-promo-stormtrooper-blaster.jpg" /&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George J. London</dc:creator><pubDate>Mon, 30 Sep 2013 20:00:00 -0400</pubDate><guid>tag:rogueleaderr.github.io,2013-09-30:posts/2013/09/why_rogueleaderr/</guid></item><item><title>Hello World!</title><link>http://rogueleaderr.github.io/posts/2013/09/hello-world/</link><description>&lt;p&gt;Hello, world.&lt;/p&gt;
+&lt;p&gt;I'm George. It's nice to meet you.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George London</dc:creator><pubDate>Fri, 27 Sep 2013 20:00:00 -0400</pubDate><guid>tag:rogueleaderr.github.io,2013-09-27:posts/2013/09/hello-world/</guid></item><item><title>Finding a co-founder is hard</title><link>http://rogueleaderr.github.io/posts/2013/09/tumblr/finding-a-co-founder-is-hard/</link><description>&lt;p&gt;&lt;span&gt;Finding a technical co-founder for a new startup is notoriously hard. After struggling with it for a while, I decided to figure out exactly how hard it is.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;To do that I simply estimated how many needles there are in the co-founder haystack. The answer is discouraging but intuitively accurate: &lt;strong&gt;there are only about two thousand potential co-founders in the entire United States.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3&gt;How hard? Let&amp;#8217;s use &lt;a href="http://lesswrong.com/lw/h5e/fermi_estimates/" target="_blank"&gt;Fermi Estimation&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;In Fermi estimation, we wave our hands and spin &lt;em&gt;minimal knowledge&lt;/em&gt; into &lt;em&gt;approximate truth&lt;/em&gt;. The goal is to quicky get an estimate that&amp;#8217;s close enough to correct for our purposes. For a link-bait blog post, &amp;#8220;close enough&amp;#8221; is not very close at all. And that&amp;#8217;s close enough®.&lt;/p&gt;
+
+&lt;p&gt;We do Fermi estimation by breaking down our final quantity (number of viable co-founders) into a chain of constituent quantities. I model the problem like this:&lt;/p&gt;
+
+&lt;p&gt;Viable co-founders =&lt;/p&gt;
+
+&lt;p&gt;(% of programmers who are 2 standard deviations above the mean)&lt;/p&gt;
+
+&lt;p&gt;* (total number of programmers in the world)&lt;/p&gt;
+
+&lt;p&gt;* (% of world population living in the USA)&lt;/p&gt;
+
+&lt;p&gt;* (% of Americans in a startup approriate age-range)&lt;/p&gt;
+
+&lt;p&gt;* (% of programmers who know a given technology)&lt;/p&gt;
+
+&lt;p&gt;Now we basically just guess each of those quantities (with a Google sense check if possible)&lt;/p&gt;
+
+&lt;p&gt;% of programmers who are 2 standard deviations above the mean = 2.5% (by math)&lt;/p&gt;
+
+&lt;p&gt;total number of programmers = 25 million (number of StackOverflow accounts)&lt;/p&gt;
+
+&lt;p&gt;% of world programmers in the USA = 5% (US pop as % of world pop)&lt;a href="http://www.wolframalpha.com/input/?i=us+population+as+%25+of+world+population" target="_blank"&gt;[1]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;% of Americans in a startup approriate age-range = 20% &lt;a href="http://answers.yahoo.com/question/index?qid=20080922082037AAjHFNn" target="_blank"&gt;[2]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;% of programmers who know a given technology = 30% (guess)&lt;/p&gt;
+
+&lt;h3&gt;Now run the numbers:&lt;/h3&gt;
+
+&lt;p&gt;Okay, so that all adds up to:&lt;/p&gt;
+
+&lt;p&gt;2.5% * 25,000,000 * 5% * 20% * 30% = &lt;em&gt;drum roll&lt;/em&gt; &lt;strong&gt;1875&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So that&amp;#8217;s it! Out of a US population of 319 million, &lt;strong&gt;a mere ~2000 people are viable co-founders&lt;/strong&gt;. That&amp;#8217;s just 1 in 1.5 million people.&lt;/p&gt;
+
+&lt;h3&gt;Dang that&amp;#8217;s hard.&lt;/h3&gt;
+
+&lt;p&gt;Then factor in the fact that the vast majority of great programmers are already employed (or 3 years into starting their own succesful company), and that only a small % will have your same interests and a compatible personality. It becomes easy to see why &lt;em&gt;so many&lt;/em&gt; startups deliver bad technology or are torn apart by co-founder conflicts.&lt;/p&gt;
+
+&lt;p&gt;So&amp;#8230;good luck!&lt;/p&gt;
+
+&lt;p&gt;P.S. If you&amp;#8217;re looking for an opportunity and love music, metadata, and HCIR, shoot me an email at george j london on gmail. Or if you just like Fermi estimations, &lt;a href="https://twitter.com/rogueleaderr" target="_blank"&gt;follow me on Twitter&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George J. London</dc:creator><pubDate>Fri, 06 Sep 2013 05:35:00 -0400</pubDate><guid>tag:rogueleaderr.github.io,2013-09-06:posts/2013/09/tumblr/finding-a-co-founder-is-hard/</guid><category>['blog'</category><category>'tech'</category><category>'cofounders']</category></item><item><title>July 8th Link Dump</title><link>http://rogueleaderr.github.io/posts/2013/07/tumblr/july-8th-link-dump/</link><description>&lt;p&gt;So I&amp;#8217;ve recently started sending a monthly newsletter to my close friends containing goings on about my life, plus a dump of the best links I found since the last letter. The goings-on aren&amp;#8217;t open access, but maybe some of you will find the links interesting. So here they are!&lt;/p&gt;
+
+&lt;h1&gt;Music:&lt;/h1&gt;
+
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;Like Daft Punk&amp;#8217;s &amp;#8220;Get Lucky&amp;#8221;? Here&amp;#8217;s an &lt;a href="http://www.youtube.com/watch?v=MDKBMvHJcFY&amp;amp;feature=youtu.be" target="_blank"&gt;awesome violin cover&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;An &lt;a href="http://paste.com/issues/week-97/articles/father-john-misty-does-not-hate-you-j-tillmans-brilliant-antagonistic-relationship-with-his-audience" target="_blank"&gt;awesome article on the raw stage presence of Father John Misty&lt;/a&gt;. (Here&amp;#8217;s a preview: &amp;#8220;The combination of melody, energy, and rage I d just witnessed had manifested into something bigger than the sum of its parts, and I knew I d seen authentic art the kind that welcomed me to watch the explosion, but didn t care if the scattered firework remnants singed my brow or impaled themselves in my gut on their way back to earth. You will be affected, was the promise, and beyond that, good luck.&amp;#8221;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Here&amp;#8217;s a cute tool that lets you &lt;a href="http://www.riffup.com/demo" target="_blank"&gt;compose music in the browser&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;An interactive map of just about &lt;a href="http://www.furia.com/misc/genremaps/engenremap.html" target="_blank"&gt;every music genre&lt;/a&gt; out there.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;June was a slow music discovery month for me, but here&amp;#8217;s a &lt;a href="http://open.spotify.com/user/rogueleaderr/playlist/0THcJqMTbzvH8ngXtjj3Zc" target="_blank"&gt;playlist&lt;/a&gt; of my favorite songs I found.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;Fun / Life:&lt;/h1&gt;
+
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;I never thought I liked BMX, then I saw &lt;a href="http://imaginate.redbull.com/videos/riding_film" target="_blank"&gt;this&lt;/a&gt;. Unreal.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There&amp;#8217;s an entire episode of the (amazing) TV show &amp;#8220;Archer&amp;#8221; where the titular character is replaced by a raptor that only makes dinosaur sounds. Watch here: &lt;a href="http://www.movshare.net/video/ykzbsr4zx7n6u" target="_blank"&gt;holy crap dinosaur archer&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A map of the US with foreign-derived place names replaced by the names&amp;#8217; &lt;a href="http://twentytwowords.com/2012/05/02/world-map-with-place-names-swapped-out-with-their-original-meanings/" target="_blank"&gt;original meaning.&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wondering how Niral, Matt and I keep our apartment so &lt;em&gt;cough&lt;/em&gt; immaculate? We use a &amp;#8220;zone-defense&amp;#8221; cleaning system, the administration of which I&amp;#8217;ve &lt;a href="https://github.com/rogueleaderr/zone-clean" target="_blank"&gt;recently automated&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;This is a &lt;a href="http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=T6kcHGlLUf8" target="_blank"&gt;Japanese Yo-Yo Wizard&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Overwhelmed with links in your life? I recommend &lt;a href="http://getpocket.com/a/queue/" target="_blank"&gt;Pocket&lt;/a&gt;, and app that lets you save links for later and read them on your phone (even on the subway!)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;Design / Marketing:&lt;/h1&gt;
+
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;Spacing and Sizing are the cheapest design wins. &lt;a href="http://alistapart.com/article/more-meaningful-typography" target="_blank"&gt;This (excessively long but skimmable) article&lt;/a&gt; provides good rules of thumb.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You don&amp;#8217;t &lt;em&gt;have to&lt;/em&gt; go to design school to learn design. This &lt;a href="http://karenx.com/blog/how-to-become-a-designer-without-going-to-design-school/" target="_blank"&gt;step-by-step guide&lt;/a&gt; can help.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Vertical centering in CSS is a &lt;strong&gt;huge pain&lt;/strong&gt;, unless you use the magical and little known &lt;a href="http://coding.smashingmagazine.com/2013/05/22/centering-elements-with-flexbox/?codekitCB=391640273.941461" target="_blank"&gt;flexbox&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Learn &amp;#8220;&lt;a href="http://www.startupmoon.com/the-dark-science-of-naming-your-post-based-on-studying-100-blogs/" target="_blank"&gt;The Dark Science Of Naming a Blog Post&amp;#160;: Based On Studying 100 Blogs&lt;/a&gt;&amp;#8221;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;Tech:&lt;/h1&gt;
+
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;Stanford is offering a technical-oriented &lt;a href="http://en.wikipedia.org/wiki/Massive_open_online_course" target="_blank"&gt;MOOC&lt;/a&gt; that teaches you that hands-dirty essentials of how to build a &lt;a href="http://t.co/UECvupHns5" target="_blank"&gt;basic web startup&lt;/a&gt;. Normally I&amp;#8217;m skeptical on the time/value proposition of MOOC&amp;#8217;s, but I&amp;#8217;ve been watching some of the videos and this looks like &lt;strong&gt;exactly the class I wish I had&lt;/strong&gt; when I was learning to program.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pro-tip for Chrome: Command-click to open a link in new tab. Got that from an AppSumo video about &lt;a href="http://www.youtube.com/watch?v=UOoE-e1XmsQ" target="_blank"&gt;Mac Shortcuts&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You can &lt;a href="http://imageoptim.com/?codekitCB=393182361.308355" target="_blank"&gt;instantly make your website faster&lt;/a&gt; by automatically optimizing your image compression&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cool technical article on how the Echonest&amp;#8217;s music algorithms &lt;a href="http://blog.echonest.com/post/52385283599/how-we-understand-music-genres" target="_blank"&gt;understand &amp;#8220;genre&amp;#8221;&lt;/a&gt; to make the interactive map (above).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Advance your advanced python by learning about &lt;a href="http://nbviewer.ipython.org/urls/gist.github.com/ChrisBeaumont/5758381/raw/descriptor_writeup.ipynb" target="_blank"&gt;descriptors&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best summary I&amp;#8217;ve found about D-Wave, the company selling the world&amp;#8217;s first (purportedly) &lt;a href="http://www.nature.com/news/computing-the-quantum-company-1.13212" target="_blank"&gt;quantum computer&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;George Related&lt;/h1&gt;
+
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;Turns out &amp;#8220;rogueleaderr.com&amp;#8221; is not a good blog name. So I&amp;#8217;m moving most of my blogging to the brand new &lt;a href="http://urbemfuturum.tumblr.com" target="_blank"&gt;"Urbem Futurum"&lt;/a&gt;. The name is meant to evoke a classically-grounded civic-oriented optimistic futurism. That&amp;#8217;s the closest I can get to presenting my weltanschauung as a tagline.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Urbem Futurum has a first blog post. In honor of July 4th, here&amp;#8217;s my explanation of why &lt;a href="http://urbemfuturum.tumblr.com/post/54880016859/above-all-egypt-needs-the-federalist-papers" target="_blank"&gt;"Egypt needs the Federalist Papers"&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Until next time&amp;#8230;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Hedging hogz" src="http://media-cache-ec2.pinimg.com/550x/7e/f8/11/7ef8110f6751a13604ac230704dac2b7.jpg" title=""/&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George J. London</dc:creator><pubDate>Mon, 08 Jul 2013 21:30:00 -0400</pubDate><guid>tag:rogueleaderr.github.io,2013-07-08:posts/2013/07/tumblr/july-8th-link-dump/</guid><category>['link dump']</category></item><item><title>How to find co-founders / collaborators: advice for myself 2 years ago</title><link>http://rogueleaderr.github.io/posts/2013/06/tumblr/how-to-find-co-founders-collaborators-advice-for/</link><description>&lt;p&gt;&lt;span&gt;[Today I read a mailing list question from an entrepreneur asking how to find developers who would work for no pay. That struck a chord since I wasted a lot of time trying to do that myself when I was starting out on &lt;a href="http://www.linernotes.com/" target="_blank"&gt;LinerNotes&lt;/a&gt;. So I wrote this blurb that I wish I could send back in time to myself. Also NB that I&amp;#8217;m still working solo, so take this with a grain of salt!&lt;/span&gt;&lt;span&gt;]&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span&gt;The first thing you need to do is to reverse the way you&amp;#8217;re approaching the problem.&lt;/span&gt;&lt;br/&gt;&lt;span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;Unless you&amp;#8217;re extremely lucky, y&lt;/span&gt;&lt;span&gt;ou&amp;#8217;re not going to have a lot of success with &amp;#8220;how can I get people to do what I want?&amp;#8221; No one else cares what you want. They care what they want. So instead you need to think in terms of &amp;#8220;how can I give other people what they want (and satisfy my own needs in the process)?&amp;#8221;&lt;/span&gt;&lt;br/&gt;&lt;span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span&gt;No one is going to work for you for free (would you personally spend months helping a stranger out of the kindness of your heart?) They may work for no &lt;/span&gt;&lt;span&gt;&lt;span&gt;cash&lt;/span&gt;, &lt;/span&gt;&lt;span&gt;but only if you can compensate them in some other way that&amp;#8217;s as valuable as cash. So think about what the type of people you need (i.e. programmers) want and think about which of those things you can offer them. The best thing you can offer is traction (i.e. a hugely reduced risk of failure) because everyone wants a seat on a rocket ship. You might offer equity, but if you haven&amp;#8217;t raised money yet then your equity is basically worthless.[1]  Or it might be some connection or hard expertise you can share. If you don&amp;#8217;t have anything at all to offer, then you need to go focus on yourself for a while and figure out how to either develop yourself to be a more useful partner or how to acquire the resources you need to attract people.&lt;/span&gt;&lt;br/&gt;&lt;span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span&gt;Applying this framework will give you a &amp;#8220;candidate archetype&amp;#8221; of people with whom you can make a mutually agreeable transaction. Then figure out where that type of person hangs out (e.g. in the UT-Austin computer labs) and go talk directly to them. Computer people are friendly and most of them will talk to strangers as long as you&amp;#8217;re humble in your initial contact.&lt;/span&gt;&lt;br/&gt;&lt;span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span&gt;If you&amp;#8217;re talking to a lot of people and not finding anyone, the problem is probably with you. Either you&amp;#8217;re talking to the wrong people (because you didn&amp;#8217;t target well) or you don&amp;#8217;t have enough to offer at this point as a partner.&lt;/span&gt;&lt;br/&gt;&lt;span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span&gt;[1] Rule of thumb &amp;#8212; think about the amount of cash you&amp;#8217;d sell your company for today, and assume the whole equity pie is worth less than 1/10 of that.&lt;/span&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George J. London</dc:creator><pubDate>Thu, 27 Jun 2013 19:25:00 -0400</pubDate><guid>tag:rogueleaderr.github.io,2013-06-27:posts/2013/06/tumblr/how-to-find-co-founders-collaborators-advice-for/</guid><category>[]</category></item><item><title>Future the Economy Part 4 - Computers and Productivity</title><link>http://rogueleaderr.github.io/posts/2013/06/tumblr/future-the-economy-part-4-computers-and-productivity/</link><description>&lt;!--?xml version="1.0" encoding="UTF-8" ?--&gt;
+
+&lt;p&gt;&lt;a href="http://www.youtube.com/watch?v=u981JhkK46o" target="_blank"&gt;Dear reader&lt;/a&gt;, this is a unusual day. For the first time (possibly) ever, I&amp;#8217;m actually writing my next &lt;a href="http://rogueleaderr.com/post/48590759215/links-to-all-the-parts-of-my-everything-about" target="_blank"&gt; future the economy &lt;/a&gt; post while NOT airborne.&lt;/p&gt;
+
+&lt;p&gt;When I &lt;a href="http://rogueleaderr.com/post/47208077674/everything-you-need-to-know-about-economics-in-400" target="_blank"&gt;left you&lt;/a&gt;, we were talking about productivity. I claimed that productivity is the root of all wealth and nearly all improvements in the human condition. And I told you about the two ways that productivity improves:&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;Doing the same thing faster&lt;/li&gt;
+&lt;li&gt;Doing different things&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;It&amp;#8217;s pretty obvious how computers let you do #1. Once upon a time, rocket scientists had to compute thousands of ballistic equations using slide rules. &amp;#8220;Computer&amp;#8221; used to be the job title of a person who simply did computations all day.&lt;/p&gt;
+
+&lt;p&gt;Now scientists can do the same thing, but faster. And Moore&amp;#8217;s law tells they&amp;#8217;ll be able to do that about 50% faster ever year. That&amp;#8217;s pretty good, unless of course I want to do something that currently takes a million years (e.g. perform a 1 second/byte calculation on 10 terabytes of data).&lt;/p&gt;
+
+&lt;p&gt;For that, I&amp;#8217;m going to have to get creative. My only option is to choose an algorithm that does substantially fewer computations or does each computation substantially faster.&lt;/p&gt;
+
+&lt;p&gt;Computer scientists have a fancy way of talking about how long a certain type of algorithm will take. When you see expressions like &amp;#8220;O(n^2)&amp;#8221; (i.e. &lt;a href="http://en.wikipedia.org/wiki/Time_complexity" target="_blank"&gt;"big O notation"&lt;/a&gt;) or &amp;#8220;polynomial time&amp;#8221;, people are talking about how much slower an algorithm will run as the amount of input data increases. For some problems, like sorting a list of n integers, a good algorithm might take (n)*(log n) nanoseconds while a bad one takes n^2 nanoseconds. For a billion item list, that&amp;#8217;s a difference of about 30 years.&lt;/p&gt;
+
+&lt;p&gt;By using the better algorithm, I&amp;#8217;ve increased my productivity by about 4,000,000,000%.&lt;/p&gt;
+
+&lt;p&gt;These examples are most dramatic in computer science but they apply just as much to normal life. Say I need to attend a meeting in Houston. That&amp;#8217;s a ~20 hour travel ordeal OR a 1 hour Skype conversation. If they&amp;#8217;re both equivalently good[1], I can 20x my productivity by choosing wisely.&lt;/p&gt;
+
+&lt;p&gt;Next time, we&amp;#8217;ll get a little meta and talk about how to &lt;strong&gt;choose better algorithms.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;[1] In real life, alternative solutions are rarely perfect substitutes. But they&amp;#8217;re often close enough along the attributes that matter.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George J. London</dc:creator><pubDate>Sat, 01 Jun 2013 06:26:00 -0400</pubDate><guid>tag:rogueleaderr.github.io,2013-06-01:posts/2013/06/tumblr/future-the-economy-part-4-computers-and-productivity/</guid><category>[]</category></item><item><title>Postgres Fuzzy Search Using Trigrams (+/- Django)</title><link>http://rogueleaderr.github.io/posts/2013/05/tumblr/postgres-fuzzy-search-using-trigrams-django/</link><description>&lt;p&gt;When building websites, you&amp;#8217;ll often want users to be able to search for something by name. On &lt;a href="http://www.linernotes.com/" target="_blank"&gt;LinerNotes&lt;/a&gt;, users can search for bands, albums, genres etc from a search bar that appears on the homepage and in the omnipresent nav bar. And we need a way to match those queries to entities in our Postgres database.&lt;/p&gt;
+
+&lt;p&gt;At first, this might seem like a simple problem with a simple solution, especially if you&amp;#8217;re using the ORM; just jam the user input into an ORM filter and retrieve every matching string. But there&amp;#8217;s a problem: if you do&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Bands.objects.filter(name="beatles")
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;You&amp;#8217;ll probably get nothing back, because the name column in your &amp;#8220;bands&amp;#8221; table probably says &amp;#8220;The Beatles&amp;#8221; and as far as Postgres is concerned if it&amp;#8217;s not exactly the same string, it&amp;#8217;s not a match.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Users are naturally terrible at spelling&lt;/strong&gt;, and even if they weren&amp;#8217;t they&amp;#8217;d be bad at guessing exactly how the name is formatted in your database. Of course you can use the LIKE keyword in SQL (or the equivalent &amp;#8216;__contains&amp;#8217; suffix in the ORM) to give yourself a little flexibility and make sure that &amp;#8220;Beatles&amp;#8221; returns &amp;#8220;The Beatles&amp;#8221;. But 1) the LIKE keyword requires you to evaluate a regex against every row in your table, or hope that you&amp;#8217;ve configured your indices to support LIKE (a quick Google doesn&amp;#8217;t tell me whether Django does that by default in the ORM) and 2) what if the user types &amp;#8220;Beetles&amp;#8221;?&lt;/p&gt;
+
+&lt;p&gt;Well, then you&amp;#8217;ve got a bit of a problem. No matter how obvious it is to human you that &amp;#8220;beatles&amp;#8221; is close to &amp;#8220;beetles&amp;#8221;[1], to the computer they&amp;#8217;re just two non-identical byte sequences. If you want the computer to understand them as similar you&amp;#8217;re going to have to give it a metric for similarity and a method to make the comparison.&lt;/p&gt;
+
+&lt;p&gt;There are a few ways to do that. You can do what I did initially and whip out the power tools, i.e. a dedicated search system like Solr or ElasticSearch. These guys have notions of fuzziness built right in (Solr more automatically than ES). But they&amp;#8217;re designed for full-text indexing of documents (e.g. full web pages) and they&amp;#8217;re rather complex to set up and administer. ES has been enough of a hassle to keep running smoothly that I took the time to see if I could push the search workload to Postgres, and hence this article.&lt;/p&gt;
+
+&lt;p&gt;Unless you need to do something real fancy, it&amp;#8217;s probably overkill to use them for just matching names.&lt;/p&gt;
+
+&lt;p&gt;Instead, we&amp;#8217;re going to follow &lt;a href="http://www.starrhorne.com/2012/02/15/fuzzy-text-search-in-postgresql.html" target="_blank"&gt;Starr Horne&amp;#8217;s advice&lt;/a&gt; and use a Postgres EXTENSION that lets us build fuzziness into our query in a fast and fairly simple way. Specifically, we&amp;#8217;re going to use an extension called pg_trgm (i.e. &amp;#8220;Postgres Trigram&amp;#8221;) which gives Postgres a &amp;#8220;similarity&amp;#8221; function that can evaluate how many three-character subsequences (i.e. &amp;#8220;trigrams&amp;#8221;) two strings share. This is actually a pretty good metric for fuzzy matching short strings like names.&lt;/p&gt;
+
+&lt;p&gt;To use pg_trgm, you&amp;#8217;ll need to install the &amp;#8220;Postgres Contrib&amp;#8221; package. On ubuntu:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo apt-get install postgres-contrib
+
+**WARNING: THIS WILL TRY TO RESTART YOUR DATABASE**
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;then pop open psql and install pg_trgm (NB: this only works on Postgres 9.1+; Google for the instructions if you&amp;#8217;re on a lower version.)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;psql
+
+CREATE EXTENSION pg_trgm;
+
+\dx # to check it's installed
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now you can do&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;SELECT *
+
+FROM types_and_labels_view
+
+WHERE label % 'Mountain Goats'
+
+ORDER BY similarity(label, 'Mountain Goats')
+
+DESC LIMIT 100;
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;And out will pop the 100 most similar names. This will still take a long time if your table is large, but we can improve that with a special type of index provided by pg_trgm:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;CREATE INDEX labels_trigram_index ON types_and_labels_table USING gist (label gist_trgm_ops);
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;or&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;CREATE INDEX labels_trigram_index ON types_and_labels_table USING gin (label gin_trgm_ops);
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;(GIN is slower than GIST to build, but answers queries faster.&lt;/p&gt;
+
+&lt;p&gt;That&amp;#8217;ll take a while to build (possibly quite a while), but once it does you should be able to fuzzy search with ease and speed. If you&amp;#8217;re using Django, you will have to drop into writing SQL to use this (until someone, &lt;em&gt;maybe you&lt;/em&gt;, writes a Django extension to do this in the ORM.)&lt;/p&gt;
+
+&lt;p&gt;And as a frustrating finishing note, my attempt to implement this on LinerNotes was not ultimately succesful. It seems that that index query performance is at least O(n) and with 50 million entities in my database queries take at least 10 seconds. I&amp;#8217;ve read that performance is great up to about 100k records then drops off sharply from there. There are some apparently additional options for improving query performance, but I&amp;#8217;ll be sticking with ElasticSearch for now.&lt;/p&gt;
+
+&lt;p&gt;[1] Sorry, Googlebot! Not sorry, Bingbot.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George J. London</dc:creator><pubDate>Thu, 16 May 2013 14:00:00 -0400</pubDate><guid>tag:rogueleaderr.github.io,2013-05-16:posts/2013/05/tumblr/postgres-fuzzy-search-using-trigrams-django/</guid><category>[]</category></item><item><title>How to notify/email yourself when an EC2 instance terminates</title><link>http://rogueleaderr.github.io/posts/2013/04/tumblr/how-to-notify-email-yourself-when-an-ec2-instance/</link><description>&lt;p&gt;I make pretty heavy use of EC2 spot instances, which as you know can terminate at any time with no warning.&lt;/p&gt;
+
+&lt;p&gt;In order to get my spots back up ASAP, I&amp;#8217;d like be notified when they terminate.&lt;/p&gt;
+
+&lt;p&gt;This turned out to be much harder than I expected. I thought I&amp;#8217;d be able to add a simple script that would send me an email when the instance shuts down (Amazon is nice enough to send a shutdown command on termination instead of just pulling the plug.)&lt;/p&gt;
+
+&lt;p&gt;But that approach has a couple of problems.&lt;/p&gt;
+
+&lt;p&gt;First, you can&amp;#8217;t easily send email from EC2 instances (because of spammers) and have to manually get instances whitelisted by elastic IP &lt;em&gt;which is a pain&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Second, it&amp;#8217;s not the easiest thing to write a shutdown hook in Linux.&lt;/p&gt;
+
+&lt;p&gt;So, here&amp;#8217;s a solution for both of those problems.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The email problem&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Amazon has a service called CloudWatch that seems great for this, except that it can only monitor metrics &lt;em&gt;emitted by running instances&lt;/em&gt;. So you can&amp;#8217;t set it to alert you on a system shutdown, nor on a metric polling failure because it randomly misses packets all the time.&lt;/p&gt;
+
+&lt;p&gt;So the solution is a different Amazon service called SNS (simple notification service) that will let you &lt;em&gt;trigger an event&lt;/em&gt; that can be configured to send you an email. So we&amp;#8217;re going to write a script that tells SNS to send us an email.&lt;/p&gt;
+
+&lt;p&gt;(SNS is free for ~200k requests/month, so unless you&amp;#8217;re planning on doing something nuts this approach should have no marginal costs.)&lt;/p&gt;
+
+&lt;p&gt;To do that, you first need to set up a &amp;#8220;topic&amp;#8221; in SNS. Go to the &lt;a href="https://console.aws.amazon.com/sns/home?region=us-east-1#s=TopicDetails" target="_blank"&gt;SNS dashboard&lt;/a&gt; and&lt;/p&gt;
+
+&lt;p&gt;1) click &amp;#8220;create topic&amp;#8221;.&lt;br/&gt; 2) Create a topic called &amp;#8220;instance_down&amp;#8221; or whatever you like.&lt;br/&gt; 3) Click the topic and click &amp;#8220;create subscription&amp;#8221;&lt;br/&gt; 4) Choose protocol &amp;#8220;email&amp;#8221; and enter your email address as the endpoint&lt;/p&gt;
+
+&lt;p&gt;To use SNS in a script, we need the &lt;a href="http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-set-up.html" target="_blank"&gt;AWS command line tools&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you already have pip installed, just&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;pip install awscli&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Then:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;touch ~/.awsconfig&lt;br/&gt; emacs ~/.awsconfig&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Make it say:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[default]&lt;br/&gt; AWS_ACCESS_KEY_ID=&amp;#171;&amp;#160;YOUR AWS ID&amp;#187;&lt;br/&gt; AWS_SECRET_ACCESS_KEY=&amp;#171;&amp;#160;YOUR AWS SECRET KEY&amp;#187;&lt;br/&gt; region=&amp;#171;&amp;#160;YOUR REGION&amp;#160;&amp;#187;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Create an init.d script:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;sudo emacs /etc/init.d/ec2-shutdown&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Make it say:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;#! /bin/sh&lt;br/&gt; ### BEGIN INIT INFO&lt;br/&gt; # Provides: ec2-terminate&lt;br/&gt; # Required-Start: $network $syslog&lt;br/&gt; # Required-Stop:&lt;br/&gt; # Default-Start:&lt;br/&gt; # Default-Stop:&lt;br/&gt; # Short-Description: restart&lt;br/&gt; # Description: send termination email&lt;br/&gt; ### END INIT INFO&lt;br/&gt; #&lt;/p&gt;
+&lt;p&gt;export AWS_CONFIG_FILE={{ YOUR CONFIG FILE }}&lt;br/&gt; export AWS_DEFAULT_REGION={{ YOUR REGION }} # config file not picking up region for some reason&lt;br/&gt; sudo -E aws sns publish &amp;#8212;topic-arn {{ YOUR SNS ARN }} &amp;#8212;message &amp;#8220;ec2 ser\&lt;br/&gt; ver {{ YOUR IDENTIFIER }} went down at $(date)&amp;#8221;&lt;br/&gt; sleep 3 # make sure the message has time to send&lt;/p&gt;
+&lt;p&gt;exit 0&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;That script will tell SNS to send you a email saying your server is down and giving the time. You can customize the message however you like.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Shutdown Script Problem&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So how do we make this run on shutdown?&lt;/p&gt;
+
+&lt;p&gt;We&amp;#8217;re going to use init.d scripts. It&amp;#8217;s taken me a little while to get my head around how this works, but in a nutshell&amp;#8230;&lt;/p&gt;
+
+&lt;p&gt;Linux has a concept of &amp;#8220;runstates&amp;#8221;, which include things like &amp;#8220;shutdown&amp;#8221; and &amp;#8220;logged in&amp;#8221;. You can tell Ubuntu to run shell scripts when it changes into a runstate by placing scripts in certain folders in side of /etc. The two states that concern us are rc0 and rc6, i.e. &amp;#8220;shutdown&amp;#8221; and &amp;#8220;reboot&amp;#8221;, which correspond to folders /etc/rc0.d and /etc/rc6.d respectively.&lt;/p&gt;
+
+&lt;p&gt;Ubuntu has a command line tool, update-rc.d that will automatically symlink scripts into the appropriate folders depending on the CL paramaters you pass it. It&amp;#8217;s all a bit complicated, but all you need to do here is:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;sudo update-rc.d ec2-shutdown start 10&amp;#160;0 6 .&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(This says run the script on entering run states 0 and 6, shutdown and reboot. And put it 10th in the list of things to do)&lt;/p&gt;
+
+&lt;p&gt;And that should do it! Now your instance should send you an email whenever it shuts down, terminates or reboots. I&amp;#8217;m not sure how limit to just EC2 termination, but please comment if you know!&lt;/p&gt;
+
+&lt;p&gt;If you have any problems, leave a comment.&lt;/p&gt;
+
+&lt;p&gt;And if you find this useful, consider &lt;a href="https://twitter.com/rogueleaderr" target="_blank"&gt;following me on Twitter&lt;/a&gt;.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George J. London</dc:creator><pubDate>Wed, 24 Apr 2013 20:23:00 -0400</pubDate><guid>tag:rogueleaderr.github.io,2013-04-24:posts/2013/04/tumblr/how-to-notify-email-yourself-when-an-ec2-instance/</guid><category>[]</category></item><item><title>Links to all the parts of my "Everything About Economics" Blog Series</title><link>http://rogueleaderr.github.io/posts/2013/04/tumblr/links-to-all-the-parts-of-my-everything-about/</link><description>&lt;p&gt;Back linking has gotten unwieldy, so I&amp;#8217;m going to just update links on this page to all the parts from now on:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://rogueleaderr.com/post/19016979629/the-future-of-the-economy-in-bite-sized-chunks" target="_blank"&gt;Intro&lt;/a&gt;: &lt;a href="http://rogueleaderr.com/post/19016979629/the-future-of-the-economy-in-bite-sized-chunks" target="_blank"&gt;The future of the economy, in bite-sized chunks.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://rogueleaderr.com/post/20176814947/future-of-the-economy-1-what-is-an-economy" target="_blank"&gt;Part 1&lt;/a&gt;: &lt;a href="http://rogueleaderr.com/post/20176814947/future-of-the-economy-1-what-is-an-economy" target="_blank"&gt;What is An Economy?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://rogueleaderr.com/post/24310998751/future-of-the-economy-2-a-rich-hypothetical" target="_blank"&gt;Part 2(a)&lt;/a&gt;: &lt;a href="http://rogueleaderr.com/post/24310998751/future-of-the-economy-2-a-rich-hypothetical" target="_blank"&gt;Rich Hypothetical Society, Poor Hypothetical Society&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://rogueleaderr.com/post/34312928799/future-of-the-economy-2-b-productivity-is" target="_blank"&gt;Part 2(b)&lt;/a&gt;: &lt;a href="http://rogueleaderr.com/post/34312928799/future-of-the-economy-2-b-productivity-is" target="_blank"&gt;Productivity is Prosperity&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://rogueleaderr.com/post/47208077674/everything-you-need-to-know-about-economics-in-400" target="_blank"&gt;Part 3&lt;/a&gt;: &lt;a href="http://rogueleaderr.com/post/47208077674/everything-you-need-to-know-about-economics-in-400" target="_blank"&gt;How Productivity Grows&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://rogueleaderr.com/post/51865158816/future-the-economy-part-4-computers-and-productivity" target="_blank"&gt;Part 4: Computers and Productivity&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George J. London</dc:creator><pubDate>Mon, 22 Apr 2013 04:22:00 -0400</pubDate><guid>tag:rogueleaderr.github.io,2013-04-22:posts/2013/04/tumblr/links-to-all-the-parts-of-my-everything-about/</guid><category>[]</category></item><item><title>More Thoughts on Free Will</title><link>http://rogueleaderr.github.io/posts/2013/04/tumblr/more-thoughts-on-free-will/</link><description>&lt;p&gt;A couple of weeks ago, I left a comment on Albert Wenger&amp;#8217;s excellent blog &lt;a href="http://continuations.com/" target="_blank"&gt;"Continuations"&lt;/a&gt; about Free Will. The comment was rather long, so I reposed it &lt;a href="http://rogueleaderr.com/post/46948814545/is-free-will-a-buffer-overflow" target="_blank"&gt;here on my blog&lt;/a&gt;. Somewhat amazingly, Albert read my comment and left a thoughtful reply.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;m not sure of the etiquette of reposting Albert&amp;#8217;s comment, but to summarize he said that my argument was off-base because the &amp;#8220;information layer&amp;#8221; I described is just an abstraction and doesn&amp;#8217;t interact with the physical world. No interaction means no influence, and that means that the stimulus-&amp;gt;thought-&amp;gt;action sequence remains a deterministically closed loop.&lt;/p&gt;
+
+&lt;p&gt;I, logorrheic that I am, responded with another rather long comment. &lt;em&gt;This is that comment&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Well, actually &lt;em&gt;this is:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;If it&amp;#8217;s true that the &amp;#8220;information layer is entirely abstract&amp;#8221; (i.e. completely non-interacting with the tangible world) then your whole argument is clearly right.&lt;/p&gt;
+
+&lt;p&gt;But I&amp;#8217;m not sure that premise is true. It seems that the informational world is constantly interacting with the physical world in the form of &amp;#8220;physical laws being followed.&amp;#8221;&lt;/p&gt;
+
+&lt;p&gt;Metaphorically, particles in the world are &amp;#8220;data&amp;#8221; and the laws of physics (i.e. the information layer) are &amp;#8220;source code.&amp;#8221; Every particle interaction is (metaphorically) a computation. Now all of our observation to date suggests that the &amp;#8220;source code&amp;#8221; of the universe is stable and fixed. But any honest physicist will tell you that our (extremely elegant) mathematically descriptions of how objects have behaved in the past tell us nothing about why they behaved that way.&lt;/p&gt;
+
+&lt;p&gt;I raised GEB to show that &amp;#8220;laws&amp;#8221; aren&amp;#8217;t necessarily well-behaved in edge cases.[1] And so similarly, the fact that we&amp;#8217;ve observed that some parts of the &amp;#8220;Ur-program&amp;#8221; work one way does NOT demonstrate conclusively that there aren&amp;#8217;t other parts of the program that introspectively alter the Ur-program&amp;#8217;s source code and lead to measurable, experimentally verifiable physical effects.&lt;/p&gt;
+
+&lt;p&gt;You raise one potential &amp;#8220;point of strangeness&amp;#8221; in your PS &amp;#8212; quantum waveform collapse. My knowledge of quantum mechanics and neuroanatomy is limited, but my best understanding is that neural interactions are sensitive enough that quantum effects can make the difference between whether a neuron fires or not. And we know from computers (cf. my Caesar&amp;#8217;s cipher example above) that changing one bit in a computation chain can radically alter the downstream result, so any slight (non-random!) bias in the quantum coin-flip could be enough to completely alter behavior. (And as far as I know would not violate the conservation of energy or any other physical laws except our observation that quantum collapse is usually random.)&lt;/p&gt;
+
+&lt;p&gt;Could patterns of thought directly alter the wave-form collapse? Well, we already know that the quantum world is altered by observation per se. And conscious introspection is fundamentally self-observation. So it is possible that when the wetware finds itself in physical states that mirror certain &amp;#8220;information patterns&amp;#8221; (e.g. &amp;#8220;contemplating two choices&amp;#8221;), the presence of those patterns triggers an alteration in the source code that directly influences the way quantum collapse happens in connected synapses, leading a neuron to fire that otherwise wouldn&amp;#8217;t. And from the GEB problem, we might expect the &amp;#8220;meta program&amp;#8221; to be especially poorly behaved (perhaps even fundamentally indeterminate, i.e. &amp;#8220;free&amp;#8221;) in this circumstance.&lt;/p&gt;
+
+&lt;p&gt;So is this explanation likely? That&amp;#8217;s hard to say. It&amp;#8217;s neither confirmed nor contradicted by existing data. It&amp;#8217;s counter-intuitive, but so is every other part of quantum mechanics.&lt;/p&gt;
+
+&lt;p&gt;But best of all, this theory is testable. We just need to carefully measure the statistical in vivo quantum behavior of synapses during decision-making and I can be proven wrong once and for all. :)&lt;/p&gt;
+
+&lt;p&gt;[1] I admit I&amp;#8217;m not sufficiently demonstrating that &amp;#8220;logic laws&amp;#8221; work the same ways as physical laws but there is certainly a remarkable symmetry. It doesn&amp;#8217;t seem at all fundamentally necessary that physical laws should be mathematically expressible and elegant. I&amp;#8217;m happy to write more on this point if anyone is curious.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George J. London</dc:creator><pubDate>Mon, 22 Apr 2013 03:58:00 -0400</pubDate><guid>tag:rogueleaderr.github.io,2013-04-22:posts/2013/04/tumblr/more-thoughts-on-free-will/</guid><category>[]</category></item><item><title>Everything you need to know about economics in 400 words, Part 3</title><link>http://rogueleaderr.github.io/posts/2013/04/tumblr/everything-you-need-to-know-about-economics-in-400/</link><description>&lt;p class="MsoNormal"&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;It seems I only write on this topic while flying. So I guess you can expect this series to wrap up sometime in 2015.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;But to recap, &lt;a href="http://rogueleaderr.com/post/34312928799/future-of-the-economy-2-b-productivity-is" target="_blank"&gt;last time&lt;/a&gt; I told you that &lt;strong&gt;productivity is prosperity&lt;/strong&gt;. So &lt;em&gt;all&lt;/em&gt; increases in per capita wealth come from increases in the amount of economic goods a single worker can produce in an hour.[1]&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;So how does productivity increase? Let’s start with the obvious. We get the stuff we have by making complicated stuff out of simpler stuff. We start with iron and chemicals, apply some process over a period of time, and end up with steel. Visually:&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;(1 unit of Time + 1 unit of Iron + 1 unit of Chemicals) =&amp;gt; 1 unit Steel&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;The productivity of this process is simply the ratio of inputs to outputs. If we rejiggered the above process to produce 2 units of steel from the same input, we would have doubled productivity.  Ditto if we halved the amount of time.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Physical productive processes are closely analogous to computer algorithms. We could just as easily talk about the “productivity” of a bitcoin mining operation in terms of how many BC a computer can generate per hour.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;So how do we get more productivity out of our processes (which, to reiterate, is the only way we get richer overall)? Well, just like with computer algorithms we have two options:&lt;/p&gt;
+
+&lt;p class="MsoListParagraphCxSpFirst"&gt;Do the same thing faster (e.g. get a faster CPU)&lt;/p&gt;
+
+&lt;p class="MsoListParagraphCxSpLast"&gt;Swap in a better algorithm (e.g. use quick sort instead of bubble sort)&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;“Do more faster” is an appealing tagline, but unfortunately human land-speed doesn’t follow Moore’s law. So our best option is to find better algorithms for our productive processes.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;So transitively, the best way for society to get richer is to devise and select better processes. By and large, we call process improvements &lt;strong&gt;technology&lt;/strong&gt;. The cotton gin and the Bessemer process were technologies that allowed radically more efficient transformation of a raw commodity into a finished product.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;One of the most important stories of the last 30 years has been the way that &lt;strong&gt;computers have inserted themselves deeply into our economy’s various productive processes.&lt;/strong&gt; &lt;strong&gt;But most of what we’ve seen so far are “do the same thing faster” improvements. The real productivity revolution will come once computers consistently help us choose better algorithms for our processes and for our lives.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt; &lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[1] Okay, all increases except one-off “gold strikes” that shower us with random natural riches.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George J. London</dc:creator><pubDate>Fri, 05 Apr 2013 18:59:00 -0400</pubDate><guid>tag:rogueleaderr.github.io,2013-04-05:posts/2013/04/tumblr/everything-you-need-to-know-about-economics-in-400/</guid><category>['economy'</category><category>'economics'</category><category>'productivty']</category></item><item><title>Is Free Will a Buffer Overflow?</title><link>http://rogueleaderr.github.io/posts/2013/04/tumblr/is-free-will-a-buffer-overflow/</link><description>&lt;p&gt;&lt;span&gt;[Once again, I&amp;#8217;ve been inspired by a post on &lt;a href="http://continuations.com/post/46249360444/there-is-no-free-will-and-thats-ok" target="_blank"&gt;Albert Wenger&amp;#8217;s blog&lt;/a&gt;, this time about whether or not free will exists.]&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;I&amp;#8217;ve spent a &lt;strong&gt;long&lt;/strong&gt; time thinking about this one as well. I think you&amp;#8217;re probably right, but here&amp;#8217;s the best alternative I&amp;#8217;ve been able to come up with. These ideas are heavily inspired by having finally finished &lt;a href="http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567" target="_blank"&gt;Gödel, Escher, Bach&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Basically, it&amp;#8217;s clearly true that determinism holds over the space of physical objects &lt;em&gt;&lt;strong&gt;if&lt;/strong&gt;&lt;/em&gt; you assume that a continuous set of physical laws governs all physical interactions. &lt;em&gt;&lt;strong&gt;If&lt;/strong&gt;&lt;/em&gt; my brain is just a physical object, then the arrangement of its atoms at present is exclusively a function of their arrangement in the past.&lt;/p&gt;
+
+&lt;p&gt;But how justified are we in making that assumption about the continuity and coverage of physical laws?&lt;/p&gt;
+
+&lt;p&gt;Let&amp;#8217;s start with coverage: it&amp;#8217;s actually not hard to think of something that doesn&amp;#8217;t interact with the physical world in quite the same way as an apple &amp;#8212; a computer program.&lt;/p&gt;
+
+&lt;p&gt;Yes, a program is represented by marks on a disk, and yes it is executed by a set of magnets that write and erase those marks using electricity routed through a CPU. But ultimately those purely physical components produce an informational state projected through my screen. And as I write I am interacting not only with the keys of my keyboard but also but with the abstract state of the system. And the state &lt;em&gt;per se&lt;/em&gt; has causal power: perform a &lt;a href="http://en.wikipedia.org/wiki/Caesar_cipher" target="_blank"&gt;Caesar cipher&lt;/a&gt; on your blog post and it becomes virtually meaningless to me despite having extremely similar statistical properties and on-disk representation.&lt;/p&gt;
+
+&lt;p&gt;So then where does the meaningfulness of the program state reside? Can we point to a memory address that distinguishes &amp;#8220;meaningful&amp;#8221; from not meaningful (even in principle)? Can we point to an atom in my brain that makes the text meaningful to me, even though it would remain meaningful to you even if my brain we destroyed (and vice versa) but become meaningless if all brains were destroyed?&lt;/p&gt;
+
+&lt;p&gt;The point here is that &lt;strong&gt;even in closed physical systems, there is an information &amp;#8220;layer&amp;#8221; that has both its own rules (i.e. &amp;#8220;logic&amp;#8221;) and yet tangibly influences the physical world.&lt;/strong&gt; This is the layer where the program-ness of a program resides, or the law-ness of physical laws, or the meaningful-ness of a sentence.&lt;/p&gt;
+
+&lt;p&gt;Normally this layer is well behaved &amp;#8212; I encode my experiences into words that you understand; when fundamental particles interact they &amp;#8220;check&amp;#8221; which laws to follow and then they follow them.&lt;/p&gt;
+
+&lt;p&gt;But &lt;strong&gt;the layer has known flaws, specifically when self-reference enters the picture.&lt;/strong&gt; Gödel&amp;#8217;s incompleteness theorem establishes that there are questions which can be precisely formulated but not decided, e.g whether the statement &amp;#8220;this statement is a lie&amp;#8221; is true or not (or the somewhat related question of whether an arbitrary computer program will ever terminate.) These questions aren&amp;#8217;t undecidable because of a deficit in our ability to measure (a la Heisenberg uncertainty) but rather because of an irresolvable quirk in the laws of the information layer.&lt;/p&gt;
+
+&lt;p&gt;The interesting thing about consciousness (the domain within which free will would presumably operate) is that it is deeply and inherently self-referential. The very exercise of writing this comment is an example of an information state reflecting on its own statefulness.&lt;/p&gt;
+
+&lt;p&gt;Now let&amp;#8217;s circle back to the question of consistency in physical laws. Usually it seems like the surest bet: no one has ever been fired for predicting that an apple will obey gravity.&lt;/p&gt;
+
+&lt;p&gt;But when we start talking about the way that particles in our brain interact with the information layer (in ways we understand only loosely, at best) and we focus in on an area (self-reference) where the information layer is already know to misbehave, how confident can we be that the rules we&amp;#8217;ve observed elsewhere operate the same way here?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Or more colorfully, how certain can we free will isn&amp;#8217;t some sort of buffer overflow in the operating system of the universe?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;[Edit: if you like this post, please upvote on &lt;a href="https://news.ycombinator.com/newest" target="_blank"&gt;Hacker News&lt;/a&gt;! Look for the post titled &amp;#8220;&lt;a href="http://rogueleaderr.com/post/46948814545/is-free-will-a-buffer-overflow" rel="nofollow" target="_blank"&gt;Is Free Will a Buffer Overflow?&lt;/a&gt;&amp;#8221;]&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George J. London</dc:creator><pubDate>Tue, 02 Apr 2013 17:55:00 -0400</pubDate><guid>tag:rogueleaderr.github.io,2013-04-02:posts/2013/04/tumblr/is-free-will-a-buffer-overflow/</guid><category>[]</category></item><item><title>The Game Theory of Google Reader</title><link>http://rogueleaderr.github.io/posts/2013/03/tumblr/the-game-theory-of-google-reader/</link><description>&lt;p&gt;Google Reader is one of top five most-used websites. I literally always have a reader tab open in Chrome. So when I heard that Reader is shutting down on July 1st, I was like&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="alt text" src="http://www.reactiongifs.com/wp-content/uploads/2013/03/dduckrage.gif" title="Picture of Buffy Changing Her Mind"/&gt;&lt;/p&gt;
+
+&lt;p&gt;But after a while I was like&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="alt text" src="http://www.reactiongifs.com/wp-content/uploads/2013/03/confused-buffy.gif" title="Picture of Buffy Changing Her Mind"/&gt;&lt;/p&gt;
+
+&lt;p&gt;And now I&amp;#8217;m like&amp;#8230;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="alt text" src="http://www.reactiongifs.com/wp-content/uploads/2013/03/oh-boy.gif" title="Picture of Buffy Changing Her Mind"/&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;#8230;because I&amp;#8217;ve concluded that I&amp;#8217;m glad Google is shutting down Reader.&lt;/p&gt;
+
+&lt;p&gt;Why, dear reader? &lt;strong&gt;Because of &lt;a href="http://en.wikipedia.org/wiki/Game_theory" target="_blank"&gt;Game Theory&lt;/a&gt;&lt;/strong&gt; (obviously)! By shutting down Reader, Google is breaking a bad Nash Equilibrium which has been hobbling the progress of web content distribution.&lt;/p&gt;
+
+&lt;p&gt;Whoa, what does that mean?&lt;/p&gt;
+
+&lt;p&gt;Well, &amp;#8220;Game Theory&amp;#8221; is simply a mathematical examination of the ideal strategy for playing games. Unsurprisingly it often applies to business and other competitive situations.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;#8217;s consider the canonical example Game Theorists love to use: &amp;#8220;the prisoner&amp;#8217;s dilema&amp;#8221;. In this scenario, the cookie monster and his brother (Charleston) have both been arrested for, you guessed it, home invasion and murder. The cops put them into two separate cells and start questioning them.&lt;/p&gt;
+
+&lt;p&gt;"Now look, cookie monster, I&amp;#8217;m not going to lie. Our evidence here is weak. If neither of you confess then we&amp;#8217;re going to have to take this to trial, and you &lt;em&gt;might&lt;/em&gt; both get off. But I&amp;#8217;ll offer you a deal. If you testify against Charleston, we&amp;#8217;ll give you immunity and &lt;em&gt;five cookies&lt;/em&gt;. Unless, of course, he testifies against you in which case you&amp;#8217;ll be learning to count to twenty to life.&amp;#8221;&lt;/p&gt;
+
+&lt;p&gt;The police say the same thing to Charleston. So what is the cookie monster to do? He has two choices: &amp;#8220;cooperate&amp;#8221; with Charleston and go to trial, or &amp;#8220;defect&amp;#8221; and rat him out in exchange for sweet cookies (or long jail time if Charleston also defects.) Charleston has the same choices.&lt;/p&gt;
+
+&lt;p&gt;To figure out what both should do, we can make a simple matrix:&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="alt text" src="http://www.beyondintractability.org/cic_images/aha/Game-Theory-prisoners-dilemma.gif" title="The Prisoner's Dilema matrix"/&gt;&lt;/p&gt;
+
+&lt;p&gt;Cookie Monster is Player A, Charleston is Player B, and the numbers in each square are the number of cookies each gets in each situation, respectively. (No, the numbers don&amp;#8217;t match up; I&amp;#8217;m borrowing the diagram.)&lt;/p&gt;
+
+&lt;p&gt;Obviously, both monsters are better off if they both cooperate. But that won&amp;#8217;t happen, at least not assuming that both care exclusively about maximizing their individual cookie intake.&lt;/p&gt;
+
+&lt;p&gt;Why not? Remember that our monsters are in separate rooms and cannot coordinate. Also, notice that each monster is &lt;em&gt;individually&lt;/em&gt; best off in the situation where the other monster cooperates but he defects. So if either monster suspects that the other one will be generous and cooperate, his &lt;em&gt;individual narrowly rational best option&lt;/em&gt; is to defect. And so he will.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="alt text" src="http://www.wallchan.com/images/sandbox/5253-cookie-monster-sad-milk.jpg" title="Sad cookie monster"/&gt;&lt;/p&gt;
+
+&lt;p&gt;Now the phrase &amp;#8220;Game Theory&amp;#8221; might quite appropriately make you think of the movie &amp;#8220;A Beautiful Mind&amp;#8221;. And if you saw that movie, you might think that Russell Crowe (a.k.a. &amp;#8220;John Nash&amp;#8221;) got academically famous for figuring out how to use game theory to pick up women in bars. But &lt;em&gt;actually&lt;/em&gt; he got famous for inventing the concept of a &amp;#8220;Nash Equilibrium&amp;#8221;.&lt;/p&gt;
+
+&lt;p&gt;To over-simplify, a Nash Equilibrium is a set of player choices in a game (e.g. &amp;#8220;Cookie monster -&amp;gt; defect&amp;#8221;, Charleston -&amp;gt; defect&amp;#8221; in the prisoner&amp;#8217;s dilema) that will produce an outcome which neither player can improve &lt;em&gt;by changing his choice unilaterally&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Take another look at the prisoner&amp;#8217;s dilema diagram. The bottom right square is a Nash Equilibrium because, even though it is the worst outcome it&amp;#8217;s the best that either player can do for himself. If Charleston thinks cookie monster is going to defect, he makes himself even worse off by cooperating. Same for cookie monster.&lt;/p&gt;
+
+&lt;p&gt;So in games where a Nash Equilibrium exists, we can generally expect that it will come to pass.[1][2]&lt;/p&gt;
+
+&lt;p&gt;So how does this all apply to Google Reader? &lt;strong&gt;Well, the existence of Google Reader has created and trapped us in a bad Nash Equilibrium.&lt;/strong&gt; In this case, Google isn&amp;#8217;t actually a player. Google is literally and figuratively out of the game &amp;#8212; they haven&amp;#8217;t cared about Google Reader in years and have let it wither on the vine.[3]&lt;/p&gt;
+
+&lt;p&gt;Instead, the players are consumers of RSS content and developers of alternative RSS readers.&lt;/p&gt;
+
+&lt;p&gt;The developers have two choices,&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;develop a new, better reader&lt;/li&gt;
+&lt;li&gt;do nothing, and let people continue to use Google&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And the consumers have two choices:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;switch to an alternative&lt;/li&gt;
+&lt;li&gt;keep using Google reader&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="alt text" src="http://25.media.tumblr.com/d04153cc7404710ee656c03a2a150f96/tumblr_mkhtaq9AKg1qkno8do1_500.png" title="Google dilema"/&gt;&lt;/p&gt;
+
+&lt;p&gt;We end up with something that looks an awful lot like the prisoner&amp;#8217;s dilema, but with a few key differences.&lt;/p&gt;
+
+&lt;p&gt;It&amp;#8217;s still the case that everyone is better off if consumers and developers cooperate on moving to a new reader. But it&amp;#8217;s no longer the case that one side gains &lt;em&gt;because&lt;/em&gt; the other loses. This is actually a game with &lt;strong&gt;two&lt;/strong&gt; Nash Equilibria (develop, switch) and (don&amp;#8217;t develop, don&amp;#8217;t switch.) And instead of being played once in a jailhouse, this decision process is repeated every day.&lt;/p&gt;
+
+&lt;p&gt;Games with multiple equilibria (which I am of course oversimplifying here) introduce a fascinating question: &amp;#8220;given that there&amp;#8217;s a better state &lt;em&gt;which both sides can agree is better for them individually&lt;/em&gt; how can move to that better world?&amp;#8221; Remember that in a Nash Equilibrium, neither side can improve her outcome by changing her move &lt;em&gt;unilaterally&lt;/em&gt;. But if the sides can coordinate then it&amp;#8217;s as simple as agreeing to change their decisions at the same time.&lt;/p&gt;
+
+&lt;p&gt;But in the real world of RSS readers, developers can&amp;#8217;t practically coordinate &lt;em&gt;en masse&lt;/em&gt; with consumers. Each has to speculate in isolation about what the other will do. So we end up in a world where fear reigns and consumers don&amp;#8217;t investigate alternative RSS readers because they fear that the other options are even more primitive. And although developers could make something much better, they don&amp;#8217;t want to risk investing the development time and having no one show up (since GR is &amp;#8220;good enough&amp;#8221; for most people.)&lt;/p&gt;
+
+&lt;p&gt;And so for years we&amp;#8217;ve been muddling along in the bad Nash Equilibrium of continuing to use GR and letting RSS become &amp;#8220;uncool&amp;#8221; relative to social sharing (despite being, IMHO, about 10x more useful.)&lt;/p&gt;
+
+&lt;p&gt;But when Google shuts down Reader, the whole game changes. Suddenly the bad Nash Equilibrium square is out of play. That means that coordination between developers and consumers is no longer necessary because &amp;#8220;staying put&amp;#8221; is no longer an option.&lt;/p&gt;
+
+&lt;p&gt;The immediate aftermath might be painful, but I predict that we&amp;#8217;ll all end up with a much better system.&lt;/p&gt;
+
+&lt;p&gt;Also, note that this dynamic is hardly exclusive to GR. It&amp;#8217;s all over the tech world: some company develops a product which gets popular; they lose interest and stop improving. But they keep the product alive, and the network effects and switching costs keep people using it even though much better mechanisms are theoretically possible. The two worst offenders I can think of are:&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;Craigslist&lt;/li&gt;
+&lt;li&gt;Javascript&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Both are terrible but both are extremely widely used. And so we&amp;#8217;re stuck in a bad Nash Equilibrium where everyone suffers because it&amp;#8217;s too hard to get people to sell their broken furniture on a new website when they can just use Craigslist and it&amp;#8217;s too risky for Mozilla to implement Python in the browser when developers might just keep kludging JS.&lt;/p&gt;
+
+&lt;p&gt;If Craigslist would just take a lesson from Google and shut down completely, it would be one of the best days ever in tech.&lt;/p&gt;
+
+&lt;p&gt;Can you think of better examples of &amp;#8220;okay&amp;#8221; products that could help the world by just disappearing? Please comment and let me know!&lt;/p&gt;
+
+&lt;p&gt;[1] Game theory is complicated, and there are a lot of exceptions depending on circumstances. But simplification usually gets us close enough.&lt;br/&gt; [2] The prisoner&amp;#8217;s dilema is one of the saddest abstract constructs I know. In a painful nutshell, it explains why &amp;#8220;we can&amp;#8217;t all just get along.&amp;#8221;&lt;br/&gt; [3] Not because they don&amp;#8217;t care &lt;em&gt;per se&lt;/em&gt;, but because it&amp;#8217;s just not impactful enough relative to their other lines of business&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George J. London</dc:creator><pubDate>Sun, 31 Mar 2013 19:57:00 -0400</pubDate><guid>tag:rogueleaderr.github.io,2013-03-31:posts/2013/03/tumblr/the-game-theory-of-google-reader/</guid><category>['game theory'</category><category>'google reader'</category><category>'craigslist']</category></item><item><title>LinerNotes Liveblog #7 -- SXSWi</title><link>http://rogueleaderr.github.io/posts/2013/03/tumblr/linernotes-liveblog-7-sxswi/</link><description>&lt;p&gt;&lt;p class="MsoNormal"&gt;Things in Austin got weird. There was carousing, there was trespassing,  and yes, there was even laser tag. But a&lt;span&gt;fter seven crazy days in Austin, my SXSW adventure is over. Instead of sharing a small Austin house with ten people (including two different bands), I’m now just sharing a house with my parents as I visit the Bay Area for some meetings.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;SXSW was definitely fun, but it was also probably a waste of time.[1] I probably could have seen that coming &amp;#8212; one of the clearer lessons of my time working on &lt;a href="http://www.linernotes.com" target="_blank"&gt;LinerNotes&lt;/a&gt; is to be very skeptical of conferences. I’ve been to several of the bigger ones (mostly because I managed to snag free tickets), and none of them have delivered enough value to clearly justify the time it took to attend, much less the the jaw-dropping ticket prices (two thousand dollars for TC Disrupt? Seriously?)&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Still, out of all the hundreds of tech conferences SXSW retains a somewhat mystical reputation for “serendipity,” i.e. that simply by walking around and talking to people one might encounter the investor or business partner one needs to “kick it up a notch.” That’s a tempting offer, since I do believe in serendipity (or rather the darker flip-side that many endeavors will be destroyed by the absence of serendipity.)&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;My skepticism almost made me follow &lt;a href="http://refer.ly/early-stage-startup-founders-should-reconsider-attending-sxsw-this-year/c/fe11402e869411e2bfbf22000a1db8fa" target="_blank"&gt;Danielle Morrill’s advice&lt;/a&gt; and skip SXSW, but a few things fell in place at the last minute (i.e. I found a place to stay for free) and so I decided to take the plunge.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;And…I was disappointed.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Serendipity did not strike. I’m sure that it did for some people, but I didn’t meet even one new person with whom I plan to stay in close contact. To be fair, I didn’t do much to maximize my &lt;a href="http://www.codusoperandi.com/posts/increasing-your-luck-surface-area" target="_blank"&gt;luck surface&lt;/a&gt; – I only went for the last two days, I didn’t buy a conference badge ($800?!) and I only struck up conversations with 20% of the people I randomly stood next to in lines instead of 100%. Still, the conversations I did have didn’t give me the sense that my digital soul mate was just one forced conversation away.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;The basic problem is with the odds. When SXSWi was smaller, it may have been viable to talk to a large percentage of attendees and either meet someone useful or meet someone who could introduce you to someone useful they just met. But now there are 30,000 people at SXSWi. Let’s assume that’s 1.5% of the entire startup world, and let’s assume that the population is representative of the general startup population. &lt;span&gt; &lt;/span&gt;&lt;span&gt;[2]&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;What are my (very rough) odds of meeting someone useful? Well, I’d estimate that there are probably less than 500 viable co-founders and 500 viable investors for me in the whole world, and &lt;a href="http://www.linernotes.com" target="_blank"&gt;LinerNotes&lt;/a&gt; is not really at a point where I’d benefit much from any business development relationships or marketing hires. If 1.5% of those people are at SXSW, that’s approximately 30 people at SXSW worth meeting.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;If I’m there for two days, I probably come into physical proximity with 300 people in a day or 600 in total. That’s 4% of the conference. 4% of 30 is 1.2, meaning that in the whole two days, I was probably &lt;em&gt;near&lt;/em&gt; someone useful about twice.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Now how many conversations with strangers can I reasonably have in a day? If I’m really forcing it, &lt;em&gt;maybe&lt;/em&gt; 20. So that’s (approximately) 40 dice rolls with a 599/600 odds per roll of &lt;em&gt;not &lt;/em&gt;meeting someone useful. That’s an 93% chance of failure, which implies a 7% chance of meeting someone useful, &lt;em&gt;if &lt;/em&gt;I’m aggressively social and &lt;em&gt;if&lt;/em&gt; the population is really representative (which it probably isn’t).&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;So after all that expense, travel, and foregone working time, the odds of serendipity striking are about 1 in 15&lt;/strong&gt;. Compared to everything else I could do with those resources, going to SXSW for networking is pretty clearly not worth it.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;So why does SXSW continue to have a reputation for magical serendipity?&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Simple, because only the 1 in 15 people who benefit bother to write about it or tell their friends. No one likes a party pooper and so other than me and Danielle Morrill, few people want to loudly admit to wasting their time in Austin.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;To be clear, I don’t regret going. The main purpose of my trip was actually to go to SXSW Music and do market research for LinerNotes, and it was worth sacrificing a weekend of work to have some fun and confirm my suspicions about SXSW. And I did meet up with a few &lt;em&gt;old &lt;/em&gt;friends at SXSWi and got to strengthen those relationships.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;There are some people for whom SXSW still does make sense (specifically startups that sell to marketers or app makers, or &lt;span&gt;VC&amp;#8217;s and &lt;/span&gt;&lt;span&gt;later stage startup employees who just want to relax and party.) But now I can say from experience that there are better ways to make new friends than shouting at strangers at a loud, crowded Taco Bell sponsored party.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt; [1] &lt;span&gt; &lt;/span&gt;&lt;span&gt;This post only applies to SXSW Interactive. The dynamics of SXSW Music were much different and probably need their own blog post.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[2]&lt;strong&gt; This is obviously a rough calculation. &lt;/strong&gt;These numbers are mostly made up with the goal of being ballpark correct and having errors cancel out. And even very generous assumptions don’t change the overall picture much.&lt;/p&gt;
+
+&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George J. London</dc:creator><pubDate>Wed, 20 Mar 2013 12:01:00 -0400</pubDate><guid>tag:rogueleaderr.github.io,2013-03-20:posts/2013/03/tumblr/linernotes-liveblog-7-sxswi/</guid><category>[]</category></item><item><title>LinerNotes beta launch day 5 – ‘What is LinerNotes?’</title><link>http://rogueleaderr.github.io/posts/2013/02/tumblr/linernotes-beta-launch-day-5-what-is-linernotes/</link><description>&lt;p&gt;&lt;p class="MsoNormal"&gt;Sorry for the hiatus; it was a busy weekend. I participated in the NYC &lt;a href="http://monthlymusichackathon.org/" target="_blank"&gt;Monthly Music Hackathon&lt;/a&gt;, continuing work on my project &lt;a href="https://github.com/rogueleaderr/videodrome" target="_blank"&gt;Videodrome&lt;/a&gt; (a HypeMachine/Exfm for music videos.) I’m aiming to release it publicly next month.&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;Much more importantly, I pressed the button on &lt;a href="http://www.linernotes.com" target="_blank"&gt;LinerNotes.com&lt;/a&gt; on Saturday night. The beta is now live, publicly accessible, and has gone four days without exploding.&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;There was a bunch of interesting process involved that I’d like to blog about, but I need to write something else first. I realized over the weekend that I obviously should have started this series by answering one simple crucial question…&lt;strong&gt;what the heck is LinerNotes, anyway&lt;/strong&gt;?&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;Actually there’s more like three questions:&lt;/p&gt;
+&lt;p class="MsoListParagraphCxSpFirst"&gt;&lt;!--[if !supportLists]--&gt;1)&lt;span&gt;   &lt;/span&gt;&lt;!--[endif]--&gt;What is LinerNotes &lt;strong&gt;&lt;em&gt;right now&lt;/em&gt;&lt;/strong&gt;?&lt;/p&gt;
+&lt;p class="MsoListParagraphCxSpMiddle"&gt;&lt;!--[if !supportLists]--&gt;&lt;span&gt;2)&lt;span&gt;    &lt;/span&gt;&lt;/span&gt;&lt;!--[endif]--&gt;&lt;span&gt;What will LinerNotes become?&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoListParagraphCxSpLast"&gt;&lt;!--[if !supportLists]--&gt;&lt;span&gt;3)&lt;span&gt;    &lt;/span&gt;&lt;/span&gt;&lt;!--[endif]--&gt;&lt;strong&gt;&lt;em&gt;&lt;span&gt;Why bother&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt;&lt;span&gt; building something like this in the first place?&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;span&gt;I’m going to answer in reverse order.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;&lt;span&gt;Why&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;?&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;span&gt;This deserves it’s own blog post and I’ll probably write one soon. But the short answer is very simple – &lt;em&gt;because I’m a curious person&lt;/em&gt;. I genuinely love learning things. And right now, it’s too hard for me to learn about and find music (and a great &lt;a href="http://rogueleaderr.com/post/41064364329/3-principles-for-the-incredibly-exciting-future-of" target="_blank"&gt;many other things&lt;/a&gt;.)&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;span&gt;Many people are satisfied with whatever pops out of Google or Wikipedia or Pandora. Well, I’m not. I want more. I want a lot more. If you don’t then LinerNotes is probably not for you. At least not today.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;span&gt;LinerNotes is hand-tailored to the way I want to listen to music. I want my experience to be fluid, effortless, and richly contextualized. I want an endless stream of music that really affects me emotionally, and I want to know how that music and the artists who make it fit into the broad and wonderful history of music. I want to spend my time listening and learning and ruminating, not seeking and scrounging and clicking. The more I know about my music, the more I like it. And as hanging out with my friends constantly reminds me, there’s an awful lot I don’t know.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;&lt;span&gt;What will LinerNotes become?&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;span&gt;I want LinerNotes to bring all information about music together in one place. &lt;strong&gt;All of it&lt;/strong&gt;. But I want to keep it organized enough that you can find any fact or song just by describing it, e.g. “bands from Liverpool in the 50’s.”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;span&gt;LinerNotes is going to become &lt;a href="http://www.shmoop.com/inferno/virgil.html" target="_blank"&gt;the Virgil&lt;/a&gt; to your musical Dante, guiding you from the hell of tired silence up into the golden light of musical rapture. LinerNotes is going to become the Mrs. Robinson to your musical Benjamin, guiding you from music novice to musical master and then going straight up crazy when you try to date our musical daughter.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;span&gt;LinerNotes will be there for you on every step of your music experience, from helping you learn about and remember what you already love to helping you find what you’re going to love next. LinerNotes isn’t loyal to any label or big corporation &amp;#8212; &lt;em&gt;&lt;strong&gt;we&amp;#8217;re only loyal to you&lt;/strong&gt;&lt;/em&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;&lt;span&gt;What is LinerNotes today?&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;span&gt;LinerNotes.com is a very early beta right now. It’s not the realization of my grand vision –  it’s just the first version I can show to people without cringing from embarrassment.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;span&gt;Right now, LinerNotes is basically just an overlay on top of Wikipedia, but with some really useful you-friendly enhancements:&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;ul type="disc"&gt;&lt;li class="MsoNormal"&gt;&lt;strong&gt;&lt;em&gt;&lt;span&gt;It’s condensed.&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt;&lt;span&gt; Because we love the Beatles, but we don’t five-pages-of-unbroken-text love the Beatles.&lt;/span&gt;&lt;/li&gt;
+&lt;li class="MsoNormal"&gt;&lt;span&gt;We’ve got &lt;strong&gt;&lt;em&gt;complete discographies&lt;/em&gt;&lt;/strong&gt; for nearly every artist, including bootlegs and rarities. Plus pages for every song and album, often complete with credits.&lt;/span&gt;&lt;/li&gt;
+&lt;li class="MsoNormal"&gt;&lt;span&gt;Our &lt;strong&gt;&lt;em&gt;dangerously-advanced search system&lt;/em&gt;&lt;/strong&gt; lets you search using concepts like “people who play the ukulele” or “bands who’s hometown is Manchester”. Press the “hard mode” button on the homepage to give it a try.&lt;/span&gt;&lt;/li&gt;
+&lt;li class="MsoNormal"&gt;&lt;span&gt;You can &lt;strong&gt;&lt;em&gt;browse genres and record labels&lt;/em&gt;&lt;/strong&gt; to find new bands. Have you seen all the great acts on &lt;a href="http://www.linernotes.com/o/1/42e06800-76f8-4a5b-a9b6-0983a5d72f17" target="_blank"&gt;Jagjaguwar&lt;/a&gt;?&lt;a href="http://localhost:8003/o/1/42e06800-76f8-4a5b-a9b6-0983a5d72f17" target="_blank"&gt;&lt;br/&gt;&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li class="MsoNormal"&gt;&lt;span&gt;You can &lt;strong&gt;&lt;em&gt;start listening immediately using Spotify or YouTube&lt;/em&gt;&lt;/strong&gt; (click the “Videos” tab.)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p class="MsoNormal"&gt;&lt;span&gt;We’ve got an &lt;em&gt;extremely long&lt;/em&gt; list of additional features we’re going to add on top of all that, but we need your help to decide what to build first.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;span&gt;So welcome to &lt;a href="http://www.linernotes.com/" target="_blank"&gt;LinerNotes&lt;/a&gt;. Please give it a try and &lt;strong&gt;leave feedback telling us what you like, what you don’t like, and what your musical experience today is missing.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George J. London</dc:creator><pubDate>Wed, 27 Feb 2013 21:47:00 -0500</pubDate><guid>tag:rogueleaderr.github.io,2013-02-27:posts/2013/02/tumblr/linernotes-beta-launch-day-5-what-is-linernotes/</guid><category>['linernotes'</category><category>'liveblog'</category><category>'launch']</category></item><item><title>"Broken Tools" -- Live-blogging LinerNotes.com, Day 4</title><link>http://rogueleaderr.github.io/posts/2013/02/tumblr/broken-tools-live-blogging-linernotes-com-day-4/</link><description>&lt;p&gt;&lt;p class="MsoNormal"&gt;“&lt;em&gt;&lt;span&gt;Equipment in action operates in an inconspicuous usefulness, doing its work without our noticing it. When the tool fails, its unobtrusive quality is ruined. There occurs a jarring of reference, so that the tool becomes visible as what it is:”—Graham Harman [1]&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;Last live-blog, I made a &lt;a href="http://rogueleaderr.com/post/43554949483/linernotes-live-blog-day-3-my-planning-process-in" target="_blank"&gt;plan to launch&lt;/a&gt;. Just the day before, I talked about how often &lt;a href="http://rogueleaderr.com/post/43470649805/live-blogging-the-beta-launch-of-www-linernotes-com" target="_blank"&gt;planning&lt;/a&gt; goes astray. And unsurprisingly, it’s only taken two days for my plan to get off track.&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;This plan is about broken tools. But more broadly it&amp;#8217;s about being sucker punched by the unexpectable. Luckily I got off pretty easy this time, but the punches come hard and fast, and they will for as long as I&amp;#8217;m in this business.&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;Why write about it now? Because a lot of stuff has broken in the last few days. I’ve had to spend so much time putting out fires that my self-imposed deadline of “pushing the button” by tomorrow is probably not going to happen.&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;Some of the breakage has been minor and some has been major. All of it has been completely typical.&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;Minor example: I got a letter (delayed in the mail) urgently requiring me to scan and email a document. My scanner broke that same day. So I had to waste 20 minutes on the phone with Lexmark’s absolutely dismal customer before tracking down a fax machine in a bodega.&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;Major: The virus I thought I beat last week has returned, leaving me feverish and mealy-minded. So I’ve been operating at 25% productivity today as I try to force my mind to think enough thoughts to figure out why ElasticSearch has abruptly stopped working.[2]&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Both of these inconveniences were effectively unpredictable.  Both siphoned off real time. And like a running back’s shoe falling off mid-stride, they made themselves perilous to ignore and shattered the precious “flow” where technical productivity hides out.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;As you saw on Tuesday, I tried to make conservative estimates for how long each step of preparation would take. But I’ve already handily blown through my margins. The problem is that the time a task requires is not normal distributed – it’s &lt;a href="http://en.wikipedia.org/wiki/Heteroscedasticity" target="_blank"&gt;heteroskedastic&lt;/a&gt;. In other words, nine out of ten times it will take me 15 minutes to get to Union Square. But the tenth time the train will break and it will take an hour. So when I’m deciding how early to leave for a meeting, my only options are to leave an hour early (and spend hours each month alone in Starbucks, guarding my seat from 14 year old girls with their cinnamon spice lattes), or to accept that once in a while I’ll be offensively late.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Doing the former is the equivalent of buying so much health insurance that you can’t afford to eat. It’s just not practicable. On the other hand, the person you’re late for will &lt;em&gt;really &lt;/em&gt;be offended: people tend to weight one negative interaction about as much as a dozen positive ones. I once heard noted VC Brad Feld say that he would not invest in a company unless every interaction was better than the previous one.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;But think about the paradox there: the only teams that never fail are either much too conservative, absurdly lucky, or outright lying.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;For me, lying is automatically off the table. And my luck is stubbornly resistant to dark magic. But I haven’t figured out another good solution. It pains me to miss my launch target, especially so soon after I’ve posted it publicly. But the alternatives (don’t be transparent, or power through and make myself sicker) seem even worse.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Entrepreneurs build with fragile tools. They’re all we can afford. But earning the confidence of employees and partners seems to require projecting a superhuman façade.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;How do you reconcile that tension?&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[1] I wanted to start this post off with a quote from philosopher Martin Heidegger, since I’m stealing his idea about tools. But I couldn’t find a direct quote that would require less than 500 words of jargon unpacking, so enjoy this secondary source.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[2] I skipped yesterday; these posts are taking about 75 minutes / per, so a rigid daily cadence is clearly not going to happen.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[3] Backward incompatible version upgrade, plus forgetting to update the cluster name in code upon spawning a new cluster.&lt;/p&gt;
+
+&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George J. London</dc:creator><pubDate>Fri, 22 Feb 2013 05:50:00 -0500</pubDate><guid>tag:rogueleaderr.github.io,2013-02-22:posts/2013/02/tumblr/broken-tools-live-blogging-linernotes-com-day-4/</guid><category>[]</category></item><item><title>LinerNotes live-blog day 3: "My planning process in action"</title><link>http://rogueleaderr.github.io/posts/2013/02/tumblr/linernotes-live-blog-day-3-my-planning-process-in/</link><description>&lt;p class="MsoNormal"&gt;&lt;a href="http://rogueleaderr.com/post/43470649805/live-blogging-the-beta-launch-of-www-linernotes-com" target="_blank"&gt;Last time&lt;/a&gt;, I said that detailed planning is mostly useless. This time, I’m going to make a detailed plan. Why? Two reasons: 1) I have a very clear and tangible goal – make LinerNotes publicly accessible, and 2) I have a long list of small, discrete tasks that need to happen first. So in this case “planning” isn’t as much about figuring out what to do as it is figuring out when to do it.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Technically, I could launch in one step. I’ve got a fully functional version of the site running on production servers, so all I have to do is change the A-Record on &lt;a href="http://www.linernotes.com" target="_blank"&gt;&lt;a href="http://www.linernotes.com" target="_blank"&gt;www.linernotes.com&lt;/a&gt;&lt;/a&gt; to a new I.P. address and you will be able to give it a whirl. But I want to make the best first impression possible, even though the main point of this beta is to test ideas and gather feedback.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Good impressions require polish. Polish is in the details. Keeping track of details means brain-strain. Plans help brain-strain. &lt;strong&gt;So let’s save my brain and make a plan.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;When I’m in “loose planning” mode (i.e. most of the time when I’m working alone) the plan is a long list of tasks kept in Asana with a rough priority ordering kept in my head. To get more rigorous, I start mapping tasks onto discrete blocks of time. Asana has a lot of virtues, but my biggest frustration is that it doesn’t integrate well with a calendar.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;I mostly use the built-in Mac apps (iMail because I have to many email accounts to use the Gmail website; iCal because I just haven’t found a good calendar app).  So this planning process is going to consist of making sure I have Asana tasks for everything I want to accomplish and then manually putting those tasks into iCal. (Someone please disrupt this process. Or recommend a better flow.)&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Here’s a high-level list of what I need to get done:&lt;/p&gt;
+
+&lt;p class="MsoListParagraphCxSpFirst"&gt;&lt;strong&gt;Update the data and streamline the pipeline.&lt;/strong&gt; LinerNotes starts life as about 10GB of .tar.gz files. It takes about 20 hours and too much manual supervision to bloom into final form.&lt;/p&gt;
+
+&lt;p class="MsoListParagraphCxSpLast"&gt;&lt;strong&gt;Clean up the CSS.&lt;/strong&gt; I’m working with a designer on a professional-looking redesign, but that won’t be ready for a few weeks.&lt;/p&gt;
+
+&lt;p class="MsoListParagraph"&gt;&lt;strong&gt;Implement basic unit testing. &lt;/strong&gt;TDD + constantly changing developments = a ton of time writing unused tests. I’ve decided to backload the pain.&lt;/p&gt;
+
+&lt;p class="MsoListParagraph"&gt;&lt;strong&gt;Come up with a solid analytics / metrics plan.&lt;/strong&gt; I’ve got Google Analytics and &lt;a href="http://www.datadoghq.com/" target="_blank"&gt;Datadog&lt;/a&gt;, but I want to make sure I learn as much as possible from early users.&lt;/p&gt;
+
+&lt;p class="MsoListParagraphCxSpFirst"&gt;&lt;strong&gt;A bunch of relationship management stuff &lt;/strong&gt;(I’m probably not going to write much about individual people, but I may write &lt;em&gt;about &lt;/em&gt;writing about individual people.)&lt;/p&gt;
+
+&lt;p class="MsoListParagraphCxSpMiddle"&gt;&lt;strong&gt;Fix many minor bugs&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoListParagraphCxSpLast"&gt;&lt;strong&gt;&lt;span&gt;Press the button.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;img alt="image" src="http://media.tumblr.com/231bb053297eadfb047a7c1d320f4f02/tumblr_inline_miiepsCpby1qz4rgp.jpg"/&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt; &lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Based on the plan I made while writing this, it looks like &lt;strong&gt;Friday will be the day&lt;/strong&gt;.&lt;span&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Here’s my calendar for the week:&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;&lt;img alt="image" src="http://media.tumblr.com/cc9ad7ccb7967499010d28ee7661a992/tumblr_inline_miies0xDMw1qz4rgp.png"/&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George J. London</dc:creator><pubDate>Wed, 20 Feb 2013 08:15:00 -0500</pubDate><guid>tag:rogueleaderr.github.io,2013-02-20:posts/2013/02/tumblr/linernotes-live-blog-day-3-my-planning-process-in/</guid><category>[]</category></item><item><title>Live-blogging the beta launch of www.linernotes.com, Day 2. “Planning, in abstract”</title><link>http://rogueleaderr.github.io/posts/2013/02/tumblr/live-blogging-the-beta-launch-of-www-linernotes-com/</link><description>&lt;p class="MsoNormal"&gt;&lt;span&gt;[Welcome back to the live-blog. You can find the previous entry &lt;/span&gt;&lt;a href="http://rogueleaderr.com/post/43352870860/live-blogging-the-beta-launch-of-www-linernotes-com" target="_blank"&gt;here&lt;/a&gt;&lt;span&gt;.]&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;I’d like to share my detailed plan for the beta launch. But I can’t, because I don’t one. For the most part that’s intentional – I rarely make detailed plans. I always have clear high-level goals, and I do keep a very long to-do list (using &lt;a href="http://asana.com/product" target="_blank"&gt;Asana&lt;/a&gt;). But I’ve found that anything more exhaustive has normally been a waste.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;In this post, I’m going to tell you why. And then in tomorrow’s post I’m going to actually work out a detailed plan. These aren’t normal times, after all. I hope you like whiplash.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe frameborder="0" height="380" src="https://embed.spotify.com/?uri=spotify:track:4sscDOZCkbLSlDqcCgUJnX" width="300"&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;I’ve always had an erratic relationship with planning. Some of that probably comes from my parents. My mother is a consummate planner – when she travels, she books the tickets five months in advance. My father would probably just buy plane tickets at the airport if that still worked[1]. Growing up, we would pile the family into the car and he’d drive us over the Rocky Mountains toward some vague destination. When he got tired of driving, we’d bounce from motel to motel until he found a vacancy.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;When starting a company, it’s very easy to fall into either of those two extremes of planning. I’ve certainly done plenty of both, and neither really works.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Take, for example, the traditional business plan. A while back, I grudgingly wrote a complete one at the request of a potential investor. It took at least two full days of work, and it was full of specific milestones and spending projections and target completion dates. But as &lt;a href="http://en.wikiquote.org/wiki/Helmuth_von_Moltke_the_Elder" target="_blank"&gt;Helmuth von Moltke&lt;/a&gt; accurately warned, “No battle plan ever survives contact with the enemy.” It only took about a month of actual building before my priorities had shifted enough to make the targets obsolete.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;The less predictable the situation is, the more my father’s method appeals. He doesn’t need to predict how tired he’ll be after driving to &lt;a href="http://www.steamboat.com/" target="_blank"&gt;Steamboat Springs&lt;/a&gt;, or how long my sister will tolerate &lt;a href="http://www.nps.gov/dino/index.htm" target="_blank"&gt;Dinosaur National Monument&lt;/a&gt;. He can just show up and leave when we’re ready.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;With LinerNotes, a huge part of the challenge has been just mapping the specific shape of the problem and iteratively sifting practical solutions out of a bunch of crazy ideas. Rigorous planning is expensive, and it’s a poor eureka moment that can be planned in advance. If I stay loose and flexible, I can just build one feature at a time, test how users react, and use that data to figure out what to build next. But being reactive also has dangers – last minute travel can be extortionately expensive, and there’s always the risk that the motels in town are 100% sold out (which happened to us more than once.) I decided just a couple of weeks ago to try to go to SXSW and the logistics of finding lodgings in Austin are giving me flashbacks.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;I’m still working on finding the right balance. Tomorrow I’ll walk you through my current process.&lt;span&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[1] I actually did that once, because there was a problem with the space shuttle. True story.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George J. London</dc:creator><pubDate>Tue, 19 Feb 2013 06:25:00 -0500</pubDate><guid>tag:rogueleaderr.github.io,2013-02-19:posts/2013/02/tumblr/live-blogging-the-beta-launch-of-www-linernotes-com/</guid><category>['live-blog; startup; linernotes']</category></item><item><title>Stopping the music money stream scream: C.R.E.A.M.</title><link>http://rogueleaderr.github.io/posts/2013/02/tumblr/stopping-the-music-money-stream-scream-c-r-e-a-m/</link><description>&lt;p&gt;[This is another long response to a post on &lt;a href="http://continuations.com/post/42582136653/micropennies-the-beginning-not-the-end" target="_blank"&gt;Albert Wenger&lt;/a&gt;'s blog.]&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;Thanks for writing about this, Albert. The issue has been on my mind lately as well.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;I’ve read at least a half-dozen pieces full of hand wringing about the economics of streaming. It’s certainly an important issue for the future of music. Streaming provides by far the best user experience I’ve found, and dominant experiences have a habit of dominating industries.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;I’d like to elaborate a bit on your themes:&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;&lt;span&gt;Transformation of the Label:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;We all sort of take it for granted that there is such a thing as “the music industry” that is defined as the oligopoly of major labels. But the labels only exist in the first place because for a century the only way to transmit music to consumers was to manufacture, distribute, and sell pieces of plastic. Promotion, A&amp;amp;R, financing etc. came along for the ride mostly because of the economics of vertical integration.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;Now that the cost to transmit music to consumers has fallen to literally zero, labels have lost their core &lt;/span&gt;&lt;span&gt;raison d&amp;#8217;être. Normally an industry without a customer would go the way of Kodak. But our political system has decided that “&lt;/span&gt;&lt;span&gt;To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries” &lt;/span&gt;&lt;span&gt;translates into “let’s incentivize Mr. Zombie Walt Disney to create more memorable characters in the past by extending copyrights another 20 years.” &lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;But as we wait for the expensive legal life-support to gradually fail, the “peripheral” functions of labels are already becoming their core business. I&amp;#8217;ll discuss below how they can add real value by focusing on those functions.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;&lt;span&gt;Dealing With Consumer Surplus&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;:&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;By removing the cost of distribution, the internet gives any artist (including an obscure horse-dancing Korean rapper) an enormous audience while simultaneously forcing them to compete against the whole history of recorded music. These conditions exponentially magnify the marginal rewards of excellence, which is exactly what we’re seeing in music (and in Hollywood, and in finance, and in technology…)&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;All of the dismay over artists’ earnings focuses on acts like  &lt;a href="http://www.theatlantic.com/technology/archive/2012/08/how-you-turn-music-into-money-in-2012-spoiler-mostly-itunes/260678/" target="_blank"&gt;&lt;span&gt;Zoe Keating&lt;/span&gt;&lt;/a&gt;, &lt;a href="http://pitchfork.com/features/articles/8993-the-cloud/" target="_blank"&gt;&lt;span&gt;Galaxie 500&lt;/span&gt;&lt;/a&gt;, or &lt;a href="http://www.vulture.com/2012/09/grizzly-bear-shields.html" target="_blank"&gt;&lt;span&gt;Grizzly Bear&lt;/span&gt;&lt;/a&gt;. Those three artists have one thing in common: they’re obscure (at least relatively &amp;#8212; they have &lt;/span&gt;&lt;span&gt;1,160,623&lt;/span&gt;&lt;span&gt;, &lt;/span&gt;&lt;span&gt;4,538,748&amp;#160;&lt;/span&gt;&lt;span&gt;and 3&lt;/span&gt;&lt;span&gt;6,486,805&amp;#160;&lt;/span&gt;&lt;span&gt;total song listens on Last.fm respectively.) But you won’t read any articles complaining about how little Lady Gaga or Rihanna are earning (&lt;/span&gt;&lt;span&gt;180,396,404&amp;#160;&lt;/span&gt;&lt;span&gt; and &lt;/span&gt;&lt;span&gt;120,265,212 plays respectively, and that’s probably a vast understatement because the average Rihanna fan is much less likely to use Last.fm)&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;It shows a curious lack of historical perspective to complain that the Zoe Keatings of the world can barely earn a living now. The “now” implies that they would have been wealthy in 1980; on the contrary, they would simply never have been signed by a label and would &lt;/span&gt;&lt;span&gt;never&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;have had any career, much less an only-modestly-lucrative one. How many of the unsigned D.I.Y. Punk or Metal bands from 1982 ever earned even $30k/year from their music?&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;Personally, I like Zoe Keating and Grizzly Bear. I’d probably buy tickets to their shows. But there is no way I would have paid $16 for one of their CD’s or iTunes albums after hearing them played once in a friend’s dorm room in 2006. And without viral promotion that cheap distribution allows, they probably never would have gotten off the ground.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;The only way musicians have ever gotten rich is by having a ton of fans. And so labels have an opportunity to add a lot of value by becoming more like Hollywood managers/agents and helping musicians effectively use all the channels available to get more people listening to their music.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;&lt;span&gt;The Economics of Streaming&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;:&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;There’s something awfully fishy about all the numbers that are being thrown around. If the average American spends &lt;a href="http://www.statista.com/statistics/191044/us-consumer-spending-on-recorded-music-since-2002/" target="_blank"&gt;$43/year&lt;/a&gt; on recorded music and a Spotify premium subscription costs $120/year, then streaming services are &lt;em&gt;collecting&lt;/em&gt; more money per customer. So where does the money go? It’s clearly not staying with Spotify, which is &lt;a href="http://www.businessinsider.com/spotifys-annual-revenue-is-creeping-towards-500-million-but-its-still-bleeding-money-2012-11" target="_blank"&gt;nowhere close&lt;/a&gt; to turning a profit.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;The answer (probably; the numbers aren’t public) is that the lion’s share of the money is going to major labels to bribe them into deigning to accept money for their back catalog, and the rest is going to disproportionately popular artists like Rihanna. Spotify streamed &lt;a href="http://mediadecoder.blogs.nytimes.com/2012/07/25/digital-notes-spotify-reveals-some-numbers-but-hides-much-more/" target="_blank"&gt;over 13 billion songs&lt;/a&gt; in 2012, of which Galaxie 500 represented 7,800 (i.e. &lt;/span&gt;&lt;span&gt;0.00006%).&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;In other words, streaming is actually making the total pot bigger. The problem isn’t with the amount of money &amp;#8212; it’s with the distribution.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;&lt;span&gt;Distribution in Space and Time&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;“Long-tail” acts like Zoe Keating (who, as I mentioned above, probably could not even exist before digital music) are being hit with two economically wonky headwinds: first, streaming presents them with a cash flow crisis; second, bulk licensing inefficiently homogenizes pricing.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;em&gt;&lt;span&gt;Cash flow:&lt;/span&gt;&lt;/em&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;An entrepreneur sells a widget for $400 and has the choice of collecting payment immediately or receiving $10/month every month for five years. Even though the second option eventually generates $600, most entrepreneurs will choose the first. Entrepreneurs are generally cash poor and prefer being able to pay bills now even if it means retiring a bit later.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;Large corporations, on the other hand, can be exactly the opposite. GE has an entire branch (GE Capital) that provides financing to consumers so they can buy a washing machine now and pay for it gradually. By reaping profits slower, GE is able to sell substantially more in total.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;Zoe Keating is in the same position as the entrepreneur. iTunes gives her a one-time upfront payment, whereas Spotify is an annuity. If we assume her earnings-per-song-play are the same (see below) then her total earnings over time should be the same.[1] But she can’t pay her rent with royalty checks from 2023.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;But…actually she can. It’s time to call in the investment bankers. There are simple mathematical formulas to calculate the present value of an annuity. If an analyst can estimate how many times a song will be played in total over the next 20 years she can easily calculate the total earnings from those streams and write Zoe Keating a check for 85% of that amount by borrowing the money from a bank and eventually paying it back as the royalties come in.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;So this is the second way labels can add value: by becoming investors. They can develop expertise in predicting long-term song popularity and market sizes (perhaps using some of that juicy big data) and then perform the financial engineering necessary for artists to cash out now (i.e. “provide an advance”). That’s always been an essential function of labels (and publishers) but streaming makes it both harder and more important.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;em&gt;&lt;span&gt;Pricing homogeneity:&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;When everyone pays $16 for a CD, some buyers get a much better deal. Many consumers will listen to the CD once or twice and then consign it to a shelf. Some will listen to the CD one thousand times. That means the price-per-play of the CD varies from $16 all the way to 1.6 cents. But every customer still pays &lt;/span&gt;&lt;span&gt;$16, of which ($16 * ~7%) ~= $1 goes to the artist. So artists are actually able to charge their casual fans a lot more (and also force them to pay for the ~50% of an album that’s usually filler.)&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;In streaming land, both of those advantages disappear. Consumers only pay for the actual product they want in the exact quantity they want. And crucially, &lt;strong&gt;they all pay the same price regardless of willingness to pay.  &lt;/strong&gt;That leads to a classic economic conundrum:&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt; &lt;img alt="image" src="http://media.tumblr.com/0c86f5f1dfc8d6104a1f020f5033ab7b/tumblr_inline_mhz2308AZF1qz4rgp.png"/&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;Even if artists do earn only 0.3 cents per stream of their songs, they can actually earn the same amount as they would from a (major label) CD sale if fans stream their albums ~50 times ($1 / ($.003 * 8 non-filler songs)).  Most fans will never do that, &lt;strong&gt;but some will, and would even if they had to pay extra&lt;/strong&gt;. If artists could charge different amounts to different fans, they could capture more of the demand curve and earn more money.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;Price homogeneity is a hard nut to crack: one idea I discuss in &lt;a href="http://rogueleaderr.com/post/17701685838/modular-subscription-models-content-exchanges-and-the" target="_blank"&gt;an old blog post&lt;/a&gt; is to make subscriptions “modular” (e.g. pay extra to listen to the Beatles on Spotify) and dynamically re-price the modules based on demand and consumer profiles. But that’s probably too complicated to happen any time soon.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;&lt;span&gt;Kickstarting the Promised Land&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;:&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;Kickstarter is extremely exciting because it fixes both wonkish economic problems in one swoop. If an artist can build a loyal fan base, she can use Kickstarter to transfer her earnings from future to present (even if no label or banker is willing to take the risk.) And she can effectively price discriminate by encouraging the most loyal/wealthy fans to pay a lot more. Plus, she can use the harvested contact info to engage with fans and encourage them to come to her shows and buy her t-shirts (or much more lucratively, her favorite brand of soap).&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;&lt;strong&gt;So in summary&lt;/strong&gt;: a bigger pie logically has to mean a bigger meal. We just may have to wait for a few unwelcome uncles to leave the table. &lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;&lt;img alt="image" src="http://media.tumblr.com/5a1d569b1060bec7292285f1c660d4d7/tumblr_inline_mhz2n2GdQa1qz4rgp.jpg"/&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;If you like this post, please up-vote on&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;a href="http://news.ycombinator.com/newest" target="_blank"&gt;Hacker News&lt;/a&gt;&lt;span&gt;.&lt;/span&gt; &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt; [1] I&amp;#8217;m ignoring the effects of interest and inflation on the time value of money because it&amp;#8217;s complicated and I&amp;#8217;m assuming that streaming costs will grow over time at approximately the appropriate rate.&lt;/span&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George J. London</dc:creator><pubDate>Sat, 09 Feb 2013 21:39:00 -0500</pubDate><guid>tag:rogueleaderr.github.io,2013-02-09:posts/2013/02/tumblr/stopping-the-music-money-stream-scream-c-r-e-a-m/</guid><category>[]</category></item><item><title>3 Principles for the Incredibly Exciting Future of Search</title><link>http://rogueleaderr.github.io/posts/2013/01/tumblr/3-principles-for-the-incredibly-exciting-future-of/</link><description>&lt;p&gt;&lt;span&gt;[Note: this post is adapted from a long comment I made on one of Albert Wenger&amp;#8217;s &lt;a href="http://continuations.com/post/40860526945/future-of-search-seeking-input" target="_blank"&gt;recent posts&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Albert, I think you’re absolutely right that the search game is just getting going. If you define search as “finding relevant web pages,” then Google has search locked up and solved. But if you define search as “providing the information you need to make the best decisions all the time” then there’s a vast and fertile green field ahead. At the end of the day, the goal of search isn’t to deliver links – it’s to deliver wisdom.&lt;/p&gt;
+
+&lt;p&gt;So how are we going to do that?&lt;/p&gt;
+
+&lt;p&gt;Let’s start with a thought experiment: imagine that you yourself are hired to be a search engine. Now imagine that your wife is a search user and so naturally any time she needs something you want to give her the absolute best and most useful answers you can.&lt;/p&gt;
+
+&lt;p&gt;Let’s assume that you have unlimited time, resources, and patience to search. But let’s add a constraint: the only way your wife can communicate is by barking 2-10 words at you and waiting silently.&lt;/p&gt;
+
+&lt;p&gt;How you would go about answering your wife’s queries?&lt;/p&gt;
+
+&lt;p&gt;For example, let’s say she asks “pizza broadway.” You can probably guess what she wants, but at least for me Googling that phrase returns junk. You, on the other hand, would take what you know about your wife’s tastes, then you’d compile a list of restaurants on Broadway, then you’d figure out which ones serve pizza, then you’d look at Yelp to see how well reviewed each pizza place is, and then perhaps you’d call your friends who eaten at those restaurants to get their opinion (which you would discount based on how much you trusted their taste in pizza.) Ultimately you’d hand your wife a simple summary telling her that the best pizza on Broadway was at “Pizza X,” located at 3333 Broadway (click here for directions or here to have it delivered.) You might even provide a summary of why you chose that answer if it was a close call.&lt;/p&gt;
+
+&lt;p&gt;Next consider a slightly more complicated (but much more important) query: “best college for my child.” Even with your human judgment and everything you know about your wife and children, that’s a mighty hard question to answer. But it’s not impossible, and it probably has an objectively correct answer (or at least there’s a small set of equivalently good options.)&lt;/p&gt;
+
+&lt;p&gt;So how would you get to the answer? Personally, I would start by fighting back against the initial constraint of this thought experiment, i.e. that you can’t communicate with the searcher. I’m sure you’d be able to do a much better job of answering the college query if you could have a conversation with your wife that lets her volunteer additional relevant information (e.g. whether your kid prefers small or big schools.) That additional information would let you figure out which variables to optimize and thus come up with a much better answer.&lt;/p&gt;
+
+&lt;p&gt;I’m using this thought experiment to try to make three points:&lt;/p&gt;
+
+&lt;p&gt;1) Search is a much larger and much more economically and socially valuable problem than “find the best link.”&lt;/p&gt;
+
+&lt;p&gt;2) A great answer to a hard question requires sophisticated aggregation of information from a variety of sources.&lt;/p&gt;
+
+&lt;p&gt;3) Instead of starting with an interface (e.g. “text in a box”) and figuring out how to&lt;br/&gt;stretch that approach, one should start by figuring out what information one&lt;br/&gt;needs from the user and then design the interface to most effectively gather&lt;br/&gt;that information.&lt;/p&gt;
+
+&lt;p&gt;Facebook’s graph search is extremely exciting because it’s the first approach I’ve seen by a large player that recognizes each of those three principles:&lt;/p&gt;
+
+&lt;p&gt;1) Graph search lets you solve an entirely new class of problems. As a real life example – last week I spent about 20 minutes compiling a list of people to invite to my&lt;br/&gt;birthday party. I could have done that in an instant by querying “close friends&lt;br/&gt;who live in New York.”&lt;/p&gt;
+
+&lt;p&gt;2) The whole system is based on Facebook’s massive structured dataset. Cost-of-data-acquisition was what killed off the 1980’s “question answering” AI systems, but Facebook has basically solved that problem by conscripting an army of human volunteers.&lt;/p&gt;
+
+&lt;p&gt;3) It’s still a textbox, but the addition of the “concept chaining” system (i.e. “in New York”, “from 2003”) lets users massively but easily increase the expressive power of&lt;br/&gt;their queries.&lt;/p&gt;
+
+&lt;p&gt;Obviously it’s going to be a long, long time before a computer can tell your children where to go to college. But it’s going to happen.&lt;/p&gt;
+
+&lt;p&gt;The search systems of the future aren’t going to be location-based OR mobile OR social. They’re going to be all of the above. They’re going to combine cutting-edge machine learning and NLP with crowd-sourcing and old-fashioned manual data entry to create comprehensive, varied knowledge bases. They’re going to use embarrassingly parallel systems to process data that’s organized with ontologies from linked data and stored in not-only-SQL data-stores. And they’re going to use best-practices from Human Computer Information Retrieval (HCIR) to expose interfaces that let searchers effortlessly deploy statistical reasoning to get the exact answers they need to live better lives.&lt;/p&gt;
+
+&lt;p&gt;Imagine a world where your mobile phone can instantly find every band similar to your favorite bands you’ve never heard, or can provide you all the core evidence for and against investing in an entrepreneur, or can save you hundreds of millions of dollars by correctly estimating how many factories you need to build to meet demand for your new widget.&lt;/p&gt;
+
+&lt;p&gt;Those answers are coming. And they’re coming soon.&lt;/p&gt;
+
+&lt;p&gt;[Edit: if you like this post, help more people see it! Please share, or upvote this post in the &lt;span&gt;&lt;a href="http://news.ycombinator.com/newest" target="_blank"&gt;Hacker News &amp;#8220;new&amp;#8221; queue&lt;/a&gt;  ] &lt;/span&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George J. London</dc:creator><pubDate>Mon, 21 Jan 2013 01:57:00 -0500</pubDate><guid>tag:rogueleaderr.github.io,2013-01-21:posts/2013/01/tumblr/3-principles-for-the-incredibly-exciting-future-of/</guid><category>[]</category></item><item><title>Calculating the Return on Investment of Gifted Education</title><link>http://rogueleaderr.github.io/posts/2013/01/tumblr/calculating-the-return-on-investment-of-gifted/</link><description>&lt;p&gt;&lt;p class="MsoNormal"&gt;I was not a normal child. At age 2, my favorite pastime was disassembling every child safety device my parents bought. By age 4, I had become an avid user of the original Macintosh (despite being unable to read.) &lt;span&gt;When I hit school, I was… ”impatient” with the pace of the curriculum. Luckily, I had great parents. They were interested enough to provide me with an endless supply of books and extracurricular excursions. They were savvy enough to maneuver me into an excellent charter middle school. And they were affluent enough to send me to a private high school where the teachers stuffed me with knowledge instead of letting the students stuff me into lockers.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Not all children are so lucky. I’m no social scientist, nor am I particularly well informed about the particulars of the American public educational system. What I am is strongly convinced that educational opportunities make an exceptional difference in the life of a gifted child. And that every gifted child in America – irrespective of background – deserves at least the same opportunities I had.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Last week, I read &lt;a href="http://www.nytimes.com/2013/01/13/education/in-one-school-students-are-divided-by-gifted-label-and-race.html?pagewanted=all&amp;amp;_r=0" target="_blank"&gt;an article&lt;/a&gt; in the New York Times about the continued under-availability of gifted and talented (G&amp;amp;T) education, especially to minority students. In our era of &lt;strong&gt;unbelievably insane and misguided&lt;/strong&gt; budget madness, education is something of an easy target. Children, of course, don’t vote. And G&amp;amp;T education is often seen as a luxury which can be cut or as a competitor for a fixed number of education dollars (especially against programs like special education.)&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;So, naturally, while falling asleep last night I decided to estimate the actual cost vs. benefit of gifted education. The results were somewhat surprising, so I’d like to share them with you.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;In short, the conclusion is that it literally costs the government $0 to spend up to $6,500 extra per pupil per year on gifted education. &lt;/strong&gt;That’s approximately 50% more than the U.S.A. &lt;a href="http://www.nationaljournal.com/thenextamerica/education/analysis-how-much-states-spend-on-their-kids-really-does-matter-20121016" target="_blank"&gt;currently spends&lt;/a&gt; on the average pupil.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;That sounds like a lot, right? Here’s how I got there:&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;First, we need a few simplifying assumptions:[1]&lt;/p&gt;
+
+&lt;p class="MsoListParagraphCxSpFirst"&gt;&lt;!--[if !supportLists]--&gt;&lt;span&gt;·&lt;span&gt;      &lt;/span&gt;&lt;/span&gt;&lt;!--[endif]--&gt;Students can be ranked into deciles by academic aptitude [2]&lt;/p&gt;
+
+&lt;p class="MsoListParagraphCxSpMiddle"&gt;&lt;!--[if !supportLists]--&gt;&lt;span&gt;·&lt;span&gt;      &lt;/span&gt;&lt;/span&gt;&lt;!--[endif]--&gt;Annual income is related to academic aptitude by a &lt;a href="http://en.wikipedia.org/wiki/Power_lawhttp://en.wikipedia.org/wiki/Power_law" target="_blank"&gt;power law&lt;/a&gt; distribution [3]&lt;/p&gt;
+
+&lt;p class="MsoListParagraphCxSpLast"&gt;&lt;!--[if !supportLists]--&gt;&lt;span&gt;·&lt;span&gt;      &lt;/span&gt;&lt;/span&gt;&lt;!--[endif]--&gt;A well-targeted education program can raise the average annual income of a decile by 5% [4]&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;From there, the logic is simple. The annual median income for men in the USA is ~$45k [5]. We assume that the least a worker in the USA can make in a year is $10k [6]. We then roughly fit a power law distribution using income data reported by the U.S. Census Bureau (which has a pretty clear power law shape.)&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;img height="537" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Distribution_of_Annual_Household_Income_in_the_United_States.png/800px-Distribution_of_Annual_Household_Income_in_the_United_States.png" width="800"/&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;(&lt;a href="http://en.wikipedia.org/wiki/File:Distribution_of_Annual_Household_Income_in_the_United_States.png" target="_blank"&gt;source&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;This lets us predict annual income by academic decile:&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;img height="256" src="http://25.media.tumblr.com/c4a0a26cba0cab9a1064bab97eb572ac/tumblr_mgue33GXte1qkno8do1_500.png" width="500"/&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;From there, we can predict lifetime income by simply multiplying annual income by the average number of working years (assumed to be 43)[7]. We then multiply lifetime income by our education “bonus” multiplier (5%) to get the additional income each student is expected to generate over her lifetime. We then assume that the government will take back 30% of that extra income through taxes. We divide those collections by the number of years a student spends in school (13), and we have our annualized “free money” threshold, i.e. an amount of spending per pupil that will generate a positive return on investment for the government.[8]&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;This chart shows the conclusion:&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;&lt;img height="237" src="http://25.media.tumblr.com/4c6fa44315e68834cd9a97f6ed72fac7/tumblr_mgue3tBKMG1qkno8do1_500.png" width="500"/&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span&gt;If you’d like to see the calculations step-by-step or you’d like to adjust my assumptions, take a look at &lt;/span&gt;&lt;a href="https://docs.google.com/spreadsheet/ccc?key=0AiZkbngpET6ydDFrZmdLUkYzaHhERlBucUdPZzNFQ1E" target="_blank"&gt;this Google doc&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;What does this chart say, exactly? &lt;strong&gt;It says that if the government spends an additional $5,000 per year on a gifted student, it can expect to collect more back in income taxes over her life than it spent on her gifted education. &lt;/strong&gt;In other words, up to a point (i.e. $6,500) &lt;strong&gt;&lt;em&gt;spending on gifted education is literally free for the government.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;That means that any debate about prioritizing gifted vs. special needs education is deeply misguided. It’s not an either/or question. The only reasonable course of action is to just spend the money on gifted education and make all other education spending decisions independently. The government need not even raise taxes to fund the programs; they could issue a 30-year municipal bond and expect to be able to pay back the interest with the extra taxes they collect.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Now this analysis is obviously an oversimplification. Everyone knows that being smart &lt;em&gt;per se&lt;/em&gt; does not guarantee a high income.[9] It’s crude at best to assume a static and binary 5% boost in income from simply having a gifted program. And this analysis completely ignores the many social benefits of having better prepared doctors and scientists[10]. I discuss a number of other specific flaws in the footnotes.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Nevertheless, I think the conclusion is sound. Opportunities for accelerated education made a huge difference in my life, and it’s a tragedy that talented students continue to be denied those opportunities just because of their parents’ income. Whether the USA recognizes that fact, China and India certainly will.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;Notes:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[1] Relevant data was hard to find on a cursory Google search. If you have better data or feel like making more sophisticated models, please post in the comments!&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[2] The idea of innate academic aptitude is controversial enough even without specifying a yardstick. So choose your own! The method of measurement doesn’t affect the logic as long as a measurement can be made.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[3] It’s pretty clear that income itself follows a power law distribution. I’ve never seen a good study about how well academic aptitude predicts income, but to whatever extent America actually is a meritocracy: it will. For every maxim about “A students work for C students”, I’ve met very few unintelligent people who’ve earned large amounts of money.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[4] I pulled this number out of a hat. Intuitively and based on my own experience, I suspect it’s significantly higher. But I wanted to be conservative for the analysis.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[5] The median income for women is substantially lower, but I’m assuming that’s because homemakers are counted. Assuming men and women have equal earning potential if they actually do work, using male income shouldn’t affect the conclusion.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[6] A bit less than full-time minimum wage income, since unemployment rates are much higher for the less educated.  &lt;a href="http://poverty.ucdavis.edu/faq/what-are-annual-earnings-full-time-minimum-wage-worker" target="_blank"&gt;&lt;a href="http://poverty.ucdavis.edu/faq/what-are-annual-earnings-full-time-minimum-wage-worker" target="_blank"&gt;http://poverty.ucdavis.edu/faq/what-are-annual-earnings-full-time-minimum-wage-worker&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[7] Working from 22-65&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[8] I&amp;#8217;m ignoring any time-value-of-money issues, both because that would be complicated and because I figure that wages should grow approximately at the interest rate, so discounting vs. wage inflation should cancel out.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[9] In an era where a good data scientist can earn $300,000…we’re getting close. Many top decile people will chose lower income careers, but they will have had at least the option to earn more if they chose.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[10] Medical, technological, and scientific discovery probably also follow a power law distribution. So we should expect that giving our brightest scientists more education will significantly increase the rate of discovery.&lt;/p&gt;
+
+&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George J. London</dc:creator><pubDate>Fri, 18 Jan 2013 23:44:00 -0500</pubDate><guid>tag:rogueleaderr.github.io,2013-01-18:posts/2013/01/tumblr/calculating-the-return-on-investment-of-gifted/</guid><category>[]</category></item><item><title>You’re Doing Freemium Wrong</title><link>http://rogueleaderr.github.io/posts/2013/01/tumblr/youre-doing-freemium-wrong/</link><description>&lt;p class="MsoNormal"&gt;I make a point of trying as many new startup products as I reasonably can. Quite a lot use a freemium model where they offer me some free service and then pester me to upgrade to the $10/month “pro” version. Out of dozens of products I’ve tried over the last couple of years, I’ve upgraded to the pro version approximately three times (Dropbox, Github, Spotify.)&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt; Why so few? Sometimes the product is just bad. Sometimes it’s targeted at a real problem I don’t have. &lt;strong&gt;But in a surprising number of cases, I’m not upgrading because the startup is using a freemium model that just doesn’t make sense.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;My basic contention in this post is that &lt;strong&gt;in many freemium startups, &lt;em&gt;the free product is the real product&lt;/em&gt; and the “pro” product is just a bunch of random tacked-on features that might appeal to power users. Instead, startups should remember that &lt;em&gt;the premium product is the real product&lt;/em&gt;, and the free version is just a conduit to make people aware that paying money will actually solve their problem.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Now I’ve never managed a freemium model myself, so these are just common sense observations. I may be missing the deep inner logic of particular programs are particular startups. But in too many cases, it’s mighty hard to imagine how what I’m seeing could make sense.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;The Wrong Way:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Let’s start with some basic logic:&lt;/p&gt;
+
+&lt;p class="MsoListParagraphCxSpFirst"&gt;&lt;!--[if !supportLists] --&gt;1)&lt;span&gt;   &lt;/span&gt;&lt;!--[endif] --&gt;Your startup is in business to make as much money as possible [1]&lt;/p&gt;
+
+&lt;p class="MsoListParagraphCxSpMiddle"&gt;&lt;!--[if !supportLists] --&gt;2)&lt;span&gt;   &lt;/span&gt;&lt;!--[endif] --&gt;The amount of money you make equals (the number of people paying you, i.e. your customers) X ($ per customer)&lt;/p&gt;
+
+&lt;p class="MsoListParagraphCxSpLast"&gt;&lt;!--[if !supportLists] --&gt;3)&lt;span&gt;   &lt;/span&gt;&lt;!--[endif] --&gt;To maximize your revenue, you need to simultaneously maximize your # of customers and your $/customer&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;So far, so good. But let’s pause for one crucial point. &lt;strong&gt;Only people who pay you are customers. Everyone else, including non-paying users of your service, are not customers. &lt;/strong&gt;That’s not to say they aren’t lovely people, or that they may not serve a critical business purpose like word-of-mouth marketing or generating content, but they don’t pay you and so they are &lt;em&gt;not customers.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Now the logic behind the freemium model is:&lt;/p&gt;
+
+&lt;p class="MsoListParagraphCxSpFirst"&gt;&lt;!--[if !supportLists] --&gt;4)&lt;span&gt;   &lt;/span&gt;&lt;!--[endif] --&gt;We will offer a free service and a premium service (for $X)&lt;/p&gt;
+
+&lt;p class="MsoListParagraphCxSpMiddle"&gt;&lt;!--[if !supportLists] --&gt;5)&lt;span&gt;   &lt;/span&gt;&lt;!--[endif] --&gt;Some % of users will be willing to pay $X to become premium users  (i.e. customers)&lt;/p&gt;
+
+&lt;p class="MsoListParagraphCxSpLast"&gt;&lt;!--[if !supportLists] --&gt;6)&lt;span&gt;   &lt;/span&gt;&lt;!--[endif] --&gt;So we need to acquire as many free users as possible to maximize our # of customers and therefore our revenues.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Sound reasonable? No!&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;There’s a gaping logic hole between #5 and #6, and it swallows many startups.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Sarlac" height="480" src="http://images1.wikia.nocookie.net/__cb20090423184527/starwars/images/2/25/Sarlacc-BTM-DB.jpg" width="640"/&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;(Artist’s rendition of a logic hole)&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;The problem is the assumption that you’ll be able to convert a constant % of users into customers.  &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Let’s say you’re a fitness tracking app, for example &lt;a href="http://tracker.dailyburn.com/locker_room" target="_blank"&gt;DailyBurn&lt;/a&gt; (which I use)[2]. You launch your core product, a calorie and workout tracker. It’s free to use, and after a month you’ve got 10k users. Great! But you’re running a bit low on cash, so you decide to get started on the “mium” part, and you launch a set of “pro&amp;#8221; features like the ability to save more favorite foods and to plan meals in advance:&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Daily burn pro options" height="311" src="http://25.media.tumblr.com/e3dbdc02ef1edadc9486a146edd5c50b/tumblr_mgbub9Nsp51qkno8do2_500.png" width="500"/&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Five hundred users (5%) sign up for the $10/month pro plan, and suddenly you’re making $5k a month in revenue. Not only can keep your servers on, you can also afford some calories for yourself to track.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;$5k/month is great, you think, but this means that if I had 10 million users then I’d have 500,000 customers and I’d be making $5 million dollars a month!&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Of course, this story very rarely ends well. The startup devotes all of its resources into improving and marketing its core free product, and (in the good case) actually gets a large number of free users. &lt;strong&gt;But the more users they acquire, the lower the conversion percentage dips. &lt;/strong&gt;Suddenly the startup is facing titanic operating costs, all shouldered by a relatively tiny number of actual customers.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;The best example of this trap is a product I use more than I would like to: &lt;a href="http://www.reddit.com" target="_blank"&gt;Reddit&lt;/a&gt;. In 2012, Reddit had 32 billion page views. But according to the best numbers I could find (which are admittedly very dated) their premium offering (“Reddit Gold”) attracts less than .1% of users [3][4] When you take a look at what Reddit gold offers, it’s not hard to see why:&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Reddit gold" height="489" src="http://25.media.tumblr.com/9b00894d9d6fd4b2f6eb969d351e834b/tumblr_mgbub9Nsp51qkno8do1_500.png" width="500"/&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;If I pay Reddit $3/month, I can turn off (unobtrusive) ads and… save and highlight comments?&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;The Reddit and DailyBurn premium programs have one key thing in common: they’re a set of (basically random) tacked on features that only appeal to the most power of power users.&lt;/strong&gt; Both of the core products solve a clear and urgent need (how do I lose weight, and how do I find cat pictures). But the premium products solve a minor problem for a small minority of users.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;And that explains the diminishing returns to scale: not only are 97% of your users never going to care about saving comments, but even worse – the people who are most likely to become super-power users are also most likely to be early adopters. So if you design your premium program to only appeal to power users, you should expect that &lt;strong&gt;conversion rates will drop with each new cohort of increasingly unsophisticated users.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;If you ignore that fact, you may very quickly find yourself learning the old economic truism that “&lt;strong&gt;anyone can sell a dollar for 99 cents.&lt;/strong&gt;”&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;The Right Way:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;What’s the alternative? &lt;strong&gt;From day one, you should think of your free product as a way to foster addiction to your premium product, ideally by creating a behavior pattern that will naturally and inevitably lead to needing premium-only features. &lt;/strong&gt;Your free product should make your user aware of two things:&lt;/p&gt;
+
+&lt;p class="MsoListParagraphCxSpFirst"&gt;&lt;!--[if !supportLists] --&gt;1)&lt;span&gt;   &lt;/span&gt;&lt;!--[endif] --&gt;You have a burning need&lt;/p&gt;
+
+&lt;p class="MsoListParagraphCxSpLast"&gt;&lt;!--[if !supportLists] --&gt;2)&lt;span&gt;   &lt;/span&gt;&lt;!--[endif] --&gt;I have a way to actually solve it &lt;strong&gt;if you give me some money&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;If you stop thinking in terms of free vs. premium and starting thinking in terms of “problem understood” vs. “problem solved”, you’ll find it much easier to actually drive up conversions and turn users into customers instead of costs. Which is the whole point of your business.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;The best example I know of freemium done right is Amazon’s AWS.  I bet you can immediately recall AWS’s de facto tagline “a great, cheap way to start a company with no upfront capital costs.” Amazon has pushed that message very hard and very effectively. But here’s the problem: &lt;strong&gt;AWS is actually not cheap. It’s only cheap AT FIRST.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Amazon offers a “free tier” that lets you spin up a few virtual machines with a little bit of storage (about enough to host a low traffic blog), all for free. This encourages users to familiarize themselves with the service, and that experience makes it easy for them to image how awesome it would be to run a entire serious startup on AWS.  Many startups, including mine, do exactly that.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;But once you’re a few months in and you’ve added a few more instances and a database, the bills suddenly jump. And you very quickly notice that running a more powerful EC2 instance for a year is about 5-10x more expensive than just buying a comparable machine. And storage on EC2 (which you’re probably going to need for that database) costs $0.10/GB/MONTH! You can buy a 1TB hard-drive for what it costs to host 1TB of data on EC2&amp;#160;&lt;strong&gt;&lt;em&gt;for one month.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;From my perspective as the guy writing the checks, this model is painful. But from Amazon’s perspective it’s brilliant. By the time I actually experience the real cost of using AWS it’s far too late for me to switch. I’m addicted.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;And to add insult to injury, AWS cuts off the free tier after one year of usage. They figure that after a year you’ve probably already told all your friends about AWS, and if by then you still haven’t gotten addicted then you’re probably never going to. So there’s no reason to continue to subsidize your use.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;The other freemium products I pay for work the same way: anyone who has 5GB of stuff to store in Dropbox will pretty soon generate a sixth GB; if you start storing all your code in Github, eventually you’ll want to keep some of it private; if you replace iTunes with Spotify, eventually you’ll want to listen to music on your iPhone and need premium.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;There are plenty of perfectly good reasons to want a lot of permanent free users. They’ll tell their friends, and as Fred Wilson &lt;a href="http://www.avc.com/a_vc/2012/12/mba-mondays-revenue-models.html" target="_blank"&gt;points out&lt;/a&gt; you can show advertising. They may even generate the content that brings people to your site. But with a $2 CPM, you’ll make about as much from 5000 users paying $100/year as you would from &lt;strong&gt;two hundred fifty million &lt;/strong&gt;ad impressions. &lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;At the very beginning of a startup, it would be foolish to focus excessively on exact monetization strategies before you’ve demonstrated that you can create monetizable value. And many businesses have started with free and then found pockets of value they could charge for. Nevertheless, a little thought at the beginning can go a long way. Especially if you’re addressing a niche market&lt;strong&gt;, it makes a lot more sense to drive up your conversion rates by designing your free product to addict customers to paying you.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;o:OfficeDocumentSettings&gt;
+  &lt;o:AllowPNG/&gt;
+ &lt;/o:OfficeDocumentSettings&gt;
+&lt;/xml&gt;&lt;![endif] --&gt;
+
+&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;w:WordDocument&gt;
+  &lt;w:View&gt;Normal&lt;/w:View&gt;
+  &lt;w:Zoom&gt;0&lt;/w:Zoom&gt;
+  &lt;w:TrackMoves/&gt;
+  &lt;w:TrackFormatting/&gt;
+  &lt;w:PunctuationKerning/&gt;
+  &lt;w:ValidateAgainstSchemas/&gt;
+  &lt;w:SaveIfXMLInvalid&gt;false&lt;/w:SaveIfXMLInvalid&gt;
+  &lt;w:IgnoreMixedContent&gt;false&lt;/w:IgnoreMixedContent&gt;
+  &lt;w:AlwaysShowPlaceholderText&gt;false&lt;/w:AlwaysShowPlaceholderText&gt;
+  &lt;w:DoNotPromoteQF/&gt;
+  &lt;w:LidThemeOther&gt;EN-US&lt;/w:LidThemeOther&gt;
+  &lt;w:LidThemeAsian&gt;JA&lt;/w:LidThemeAsian&gt;
+  &lt;w:LidThemeComplexScript&gt;X-NONE&lt;/w:LidThemeComplexScript&gt;
+  &lt;w:Compatibility&gt;
+   &lt;w:BreakWrappedTables/&gt;
+   &lt;w:SnapToGridInCell/&gt;
+   &lt;w:WrapTextWithPunct/&gt;
+   &lt;w:UseAsianBreakRules/&gt;
+   &lt;w:DontGrowAutofit/&gt;
+   &lt;w:SplitPgBreakAndParaMark/&gt;
+   &lt;w:EnableOpenTypeKerning/&gt;
+   &lt;w:DontFlipMirrorIndents/&gt;
+   &lt;w:OverrideTableStyleHps/&gt;
+   &lt;w:UseFELayout/&gt;
+  &lt;/w:Compatibility&gt;
+  &lt;m:mathPr&gt;
+   &lt;m:mathFont m:val="Cambria Math"/&gt;
+   &lt;m:brkBin m:val="before"/&gt;
+   &lt;m:brkBinSub m:val="&amp;#45;-"/&gt;
+   &lt;m:smallFrac m:val="off"/&gt;
+   &lt;m:dispDef/&gt;
+   &lt;m:lMargin m:val="0"/&gt;
+   &lt;m:rMargin m:val="0"/&gt;
+   &lt;m:defJc m:val="centerGroup"/&gt;
+   &lt;m:wrapIndent m:val="1440"/&gt;
+   &lt;m:intLim m:val="subSup"/&gt;
+   &lt;m:naryLim m:val="undOvr"/&gt;
+  &lt;/m:mathPr&gt;&lt;/w:WordDocument&gt;
+&lt;/xml&gt;&lt;![endif] --&gt;
+
+&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="276"&gt;
+  &lt;w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 7"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 8"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 9"/&gt;
+  &lt;w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/&gt;
+  &lt;w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/&gt;
+  &lt;w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/&gt;
+  &lt;w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/&gt;
+  &lt;w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/&gt;
+  &lt;w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/&gt;
+  &lt;w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/&gt;
+  &lt;w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/&gt;
+  &lt;w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/&gt;
+  &lt;w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/&gt;
+  &lt;w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/&gt;
+  &lt;w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/&gt;
+  &lt;w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/&gt;
+  &lt;w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/&gt;
+  &lt;w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/&gt;
+  &lt;w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/&gt;
+  &lt;w:LsdException Locked="false" Priority="37" Name="Bibliography"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/&gt;
+ &lt;/w:LatentStyles&gt;
+&lt;/xml&gt;&lt;![endif] --&gt;
+
+&lt;!--[if gte mso 10]&gt;
+&lt;style&gt;
+ /* Style Definitions */
+table.MsoNormalTable
+    {mso-style-name:"Table Normal";
+    mso-tstyle-rowband-size:0;
+    mso-tstyle-colband-size:0;
+    mso-style-noshow:yes;
+    mso-style-priority:99;
+    mso-style-parent:"";
+    mso-padding-alt:0in 5.4pt 0in 5.4pt;
+    mso-para-margin:0in;
+    mso-para-margin-bottom:.0001pt;
+    mso-pagination:widow-orphan;
+    font-size:12.0pt;
+    font-family:Cambria;
+    mso-ascii-font-family:Cambria;
+    mso-ascii-theme-font:minor-latin;
+    mso-hansi-font-family:Cambria;
+    mso-hansi-theme-font:minor-latin;}
+&lt;/style&gt;
+&lt;![endif] --&gt;
+
+&lt;!--StartFragment --&gt;
+
+&lt;!--EndFragment --&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[1] Obviously subject to ethical and other constraints&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[2] Although DailyBurn is not nearly the most egregious freemium offender, I picked them as an example because a) I actually use them but never see myself upgrading and b) they’ve pivoted to become a &lt;a href="http://allthingsd.com/20120126/dailyburn-ceo-fitness-tracking-devices-arent-gimmicks-but-theyre-close/" target="_blank"&gt;protein powder company&lt;/a&gt;, which I’m assuming means their freemium model did not work as hoped.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[3] &lt;a href="http://techcrunch.com/2010/07/13/reddit-gold-update/" target="_blank"&gt;&lt;a href="http://techcrunch.com/2010/07/13/reddit-gold-update/" target="_blank"&gt;http://techcrunch.com/2010/07/13/reddit-gold-update/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[4] Of course Reddit also monetizes through advertising&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George J. London</dc:creator><pubDate>Wed, 09 Jan 2013 00:52:00 -0500</pubDate><guid>tag:rogueleaderr.github.io,2013-01-09:posts/2013/01/tumblr/youre-doing-freemium-wrong/</guid><category>['blog'</category><category>'fremium'</category><category>'startups']</category></item><item><title>My Top 40 Albums of 2012</title><link>http://rogueleaderr.github.io/posts/2013/01/tumblr/my-top-40-albums-of-2012/</link><description>&lt;p&gt;(With Spotify playlist! Click: &lt;a href="http://open.spotify.com/user/rogueleaderr/playlist/7fkCi9g0AdglAfo4kqaJBL" target="_blank"&gt;Best Albums 2012&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;LIST:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;40       Blunderbuss – Jack White&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;39       Open Your Heart – The Men&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;38       Trouble – Total Enormous Extinct Dinosaurs&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;37       Lion’s Roar – First Aid Kit&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;36       Centipede Hz – Animal Collective&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;35       Mature Themes – Ariel Pink&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;34       Oshin – DIIV&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;33       Port of Morrow – The Shins&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;32       Life is Good – Nas&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;31       Put Your Back N 2 It &amp;#8212; Perfume Genius&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;30       Sweet Heart, Sweet Light – Spiritualized&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;29       Bloom – Beach House&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;28       Channel Orange – Frank Ocean&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;27       The Haunted Man – Bat for Lashes&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;26       XXX - Danny Brown&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;25       Lonerism – Tame Impala&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;24       Drop Gloss – Battles&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;23       Kill For Love – Chromatics&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;22       Putrifiers II – Thee Oh Sees&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;21       III – Crystal Castles&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;20       Slaughterhouse – Ty Segall Band&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;19       Allah-Las – Allah-Las&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;18       Orbits – Starkey&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;17       Fear Fun - Father John Misty&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;16       Swing Lo Magellan – Dirty Projectors&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;15       Bend Beyond – Woods&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;14       Shields – Grizzly Bear&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;13       End of Daze EP – Dum Dum Girls&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;12       Sun – Cat Power&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;11       Good kid, m.A.A.d City – Kendrick Lamar&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;10       Get Disowned – Hop Along&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;9     Ugly – Screaming Females&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;8     I Bet on Sky – Dinosaur Jr&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;7     R.A.P. Music – Killer Mike&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;6     Devotion – Jessie Ware&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;5     Transcendental Youth – the Mountain Goats&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;4     Something - Chairlift&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;3     Yellow &amp;amp; Green – Baroness&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;2     Attack on Memory – Cloud Nothings&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;1     Celebration Rock - Japandroids&lt;/strong&gt;&lt;/p&gt;
+
+&lt;!--EndFragment--&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;em&gt;Worst Album of the Year: The Money Store – Death Grips&lt;/em&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George J. London</dc:creator><pubDate>Tue, 08 Jan 2013 16:01:00 -0500</pubDate><guid>tag:rogueleaderr.github.io,2013-01-08:posts/2013/01/tumblr/my-top-40-albums-of-2012/</guid><category>['music']</category></item><item><title>The Simple Reason Twitter Will Win the Sharing War…</title><link>http://rogueleaderr.github.io/posts/2012/12/tumblr/the-simple-reason-twitter-will-win-the-sharing-war/</link><description>&lt;p&gt;&lt;p class="MsoNormal"&gt;…is that most of what people share is terrible. That picture of Fluffy might be meaningful to my random college friend Jim, but it’s boring to me. &lt;/p&gt;
+&lt;p class="MsoNormal"&gt;I am extremely skeptical of “Zuckerberg’s law” (i.e. that the amount people share will double every year) because I just don’t believe that my life (or yours) generates that quantity of &lt;strong&gt;interesting&lt;/strong&gt; content.&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;Now there are certainly plenty of great things being shared; almost every day I read an article or listen to a song recommended by a friend. But an unscientific poll of my Facebook feed shows that as much as I &lt;em&gt;do &lt;/em&gt;care about my friends, I’m only interested in what they share at best 25% of the time. Google+ (where I maintain an account out of morbid curiosity) is even worse. Visiting either site has become for me an exercise in flicking the scroll wheel and hoping that something interesting will pop out of the literal blur of long status updates and giant filtered photos.[1]&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;My experience with Twitter is completely different. I follow nearly 200 people, but I read (or at least skim) every tweet.&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;What’s different?&lt;/p&gt;
+&lt;p class="MsoListParagraphCxSpFirst"&gt;&lt;!--[if !supportLists]--&gt;1)&lt;span&gt;   &lt;/span&gt;&lt;!--[endif]--&gt;The “follow” relationship on Twitter is fundamentally different. “Follow” expresses “I am interested in what you have to share,” and nothing else. So my Twitter feed is pre-filtered. &lt;/p&gt;
+&lt;p class="MsoListParagraphCxSpLast"&gt;&lt;!--[if !supportLists]--&gt;2)&lt;span&gt;   &lt;/span&gt;&lt;!--[endif]--&gt;In most cases, a tweet is not a share &lt;em&gt;per se&lt;/em&gt;[2] but rather a &lt;strong&gt;bid for attention. &lt;/strong&gt;Yes, &lt;a href="https://twitter.com/rogueleaderr/status/283726869348618240" target="_blank"&gt;some tweets&lt;/a&gt; bask in triviality.But most of the time, &lt;strong&gt;you get 140 characters to explain to me why I should click your link.&lt;/strong&gt; Most bids fail; &lt;a href="https://bufferapp.com/app/profile/50cb634acdc075dc74000004/buffer" target="_blank"&gt;Buffer&lt;/a&gt; has shown me that my followers click only about 10% of my links. While it’s frustrating that you all aren’t more interested in &lt;a href="http://gizmodo.com/5970492/merging-hexapod-bots-and-flying-quadrotors-is-humanitys-biggest-mistake" target="_blank"&gt;spider helicopters&lt;/a&gt; or &lt;a href="http://rogueleaderr.tumblr.com/post/32768181371/set-up-and-run-a-fully-distributed-hadoop-hbase-cluster" target="_blank"&gt; how to build a Hadoop/Hbase cluster in an hour&lt;/a&gt;, it’s great that you get to &lt;strong&gt;very quickly move on.&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;So far, &lt;strong&gt;Twitter is the only sharing service I’ve seen that respects my time.&lt;/strong&gt; Attention is only going to get scarcer as science develops more and more &lt;a href="http://www.youtube.com/watch?v=E7TibP-aAzk" target="_blank"&gt;dancing robots&lt;/a&gt;.&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;The service that maximizes information per unit attention is going to win.[3]&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[1] An obvious objection is that many people read Facebook for entertainment rather than information. But there are better sources of entertainment.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[2] Grammar nerd pet peeve alert! “&lt;em&gt;Per se” &lt;/em&gt;is Latin for “through itself,” not for “exactly”. So this is the correct usage.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[3] At least at feed-style sharing. We’re going to start seeing interesting data magic with the aggregate data about viewing/sharing behavior.&lt;/p&gt;
+
+&lt;!--EndFragment--&gt;
+
+&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George J. London</dc:creator><pubDate>Fri, 28 Dec 2012 07:42:00 -0500</pubDate><guid>tag:rogueleaderr.github.io,2012-12-28:posts/2012/12/tumblr/the-simple-reason-twitter-will-win-the-sharing-war/</guid><category>['blog'</category><category>'twitter']</category></item><item><title>The Only Way To Create Political Change: A Step-by-Step Guide</title><link>http://rogueleaderr.github.io/posts/2012/12/tumblr/the-only-way-to-create-political-change-a-step-by-step/</link><description>&lt;p&gt;&lt;p class="MsoNormal"&gt;I’m fortunate to have a lot of well-intentioned friends. They believe in a variety of noble causes and sincerely want to change the world for the better. To date, few of them have succeeded. [1]&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;With the terrible tragedy on Friday, we’ve seen an outpouring of good intentions on Facebook and Twitter. But I’d be very surprised if that sentiment produces any more meaningful change than all the similar outpourings following (far too many) previous tragedies.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Why? Because &lt;strong&gt;e&lt;/strong&gt;&lt;strong&gt;very failed movement fails in its own way, but every successful movement is alike.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;There is really &lt;strong&gt;only essentially one way&lt;/strong&gt; to create meaningful political change. I’m going to walk you through it now.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;Step 1: Identify the decision-makers.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;The USA is a democratic republic (not a democracy.) We have a legislature that makes laws, an executive that enforces laws and controls administrative agencies, and a judicial system that interprets the law and the constitution.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Nearly every aspect of our society is under the direct control of one of those branches (or its local equivalent) &lt;strong&gt;&lt;em&gt;and no one else&lt;/em&gt;&lt;/strong&gt;.  If you want to change the law (for example to ban assault weapons), you must win over 51% of the legislature. [2]&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;Win over 51% of the legislature and you win. Win over 50% or less and you lose, no matter how much money you raised or awareness you created. It really is that simple.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;Step 2: Identify your opponents.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;The status quo is not random. Whatever aspect of society you identify as a bug, someone else sees as a feature. That person (or more often, that very large group of people) prefers things they way they are and will actively fight change. Sometimes, your opponent really will be a shadowy cabal of corporate SuperPAC’s. But in most cases your opponents will be an outright majority of your fellow citizens.  In that case, you have very different problems that require very different tactics.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;Step 3: Figure out how to sway the decision maker.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;For example, let’s assume that you’re trying to pass a law; 51% of Americans oppose it; Congress voted down the law 41%/59% last year.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;What are you to do? Since you’ve completed Steps 1&amp;amp;2, you already know that you need to pick up the votes of 10% of Congress, and that there is a large and organized group of citizens who are pushing Congress the other way.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;What determines how a Congressman votes? A little bit of ideology and a whole lot of fear about reelection.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;So you need to convince 10% of Congress that flipping to your side is the best way (or better yet the only way) to get reelected. You do that by identifying the Congressmen who won their last election by the smallest margins, preferably in districts where overall public opinion on your issue is as favorable as possible.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;Step 4: Create a credible (political) threat.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Politics is the art of threatening with a smile. And now you know exactly which Congressmen to threaten.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;You’re not going to be able to bluff this part. Politicians are incredibly savvy at reading the political winds, and if you’re just blowing air there is going to be a large opposition actively pointing that out.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;You’re going to need to actually change a lot of hearts and minds, and make your target Congressmen painfully aware of that change. To do that, you’re going to need to &lt;strong&gt;get organized&lt;/strong&gt;. You need to build an actual organization (with leaders and resources) that &lt;strong&gt;contacts&lt;/strong&gt; citizens, &lt;strong&gt;convinces&lt;/strong&gt; them, and &lt;strong&gt;commits&lt;/strong&gt; them to expressing their newfound view directly to their representative.  This effort has to be strategic. Getting a million New Yorkers to sign a petition for more mass transit funding is completely useless if the relevant bill is being filibustered by a senator from Idaho.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;Step 5: Enjoy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;If you follow these steps, one of two things will happen. Either you’ll realize that enough people disagree vehemently with your goals that you’ll never get what you want no matter what tactics you use. &lt;strong&gt;Or you’ll actually get to watch a law be passed that finally corrects a serious social blight.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;This year’s successful war against SOPA is an excellent example of this method in action. That effort worked because the major tech organizations united in opposition to the law (which was already unpopular among those who knew about it), they put their message clearly in front of millions of voters, and they coordinated an outpouring of calls and letters to Congressmen. That groundswell made enough Congressmen realize that supporting SOPA threatened their own reelection, and the law collapsed.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;I trust that my friends will remain well intentioned. And I look forward to all the wonderful things they’ll accomplish if they just remember: &lt;strong&gt;identify the decision makers, identify your opponents, figure out how to sway the decision makers, and create a credible political threat by contacting, convincing, and committing the right group of fellow citizens. &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[1] Except perhaps on a very local scale, which is valuable but much less than they intended.&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;[2] Or 61%, thanks to our silly filibuster system.&lt;/p&gt;
+
+&lt;!--EndFragment--&gt;
+
+&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George J. London</dc:creator><pubDate>Mon, 17 Dec 2012 00:31:00 -0500</pubDate><guid>tag:rogueleaderr.github.io,2012-12-17:posts/2012/12/tumblr/the-only-way-to-create-political-change-a-step-by-step/</guid><category>[]</category></item></channel></rss>
